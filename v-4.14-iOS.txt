@@ -1,0 +1,9 @@
+iOS Update - Making Mail Great Again! 💌 
+
+New: 🤖 Chat Assistant - Your personal AI sidekick! It’s like having a helpful unicorn in your mailbox. 🦄📧 
+New: 📥 Inbox Summary - Cutting through the email jungle to give you the Cliff Notes version of your inbox. No more email overwhelm!🌴📨 
+New: 🖨️ Print Mail - Now your emails will look so crisp and stylish, even Picasso would be jealous! 🎨🖨️
+New: 💌 For You Overview - Never miss an important email again! We’re like your email traffic cop, waving the “Attention Needed” flag.🚦📩
+Fixed: 📆 Calendar invite no longer thinks it’s the one-day Olympics champion. It’s learned to party for multiple days! 🎉📅 
+
+We hope you enjoy these updates, and remember: “Keep calm and update Canary!” 🤖📲  
