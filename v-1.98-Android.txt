@@ -1,0 +1,7 @@
+Android Update - Making Mail Great Again! 💌
+
+Fixed:🕵🏼‍♂️ PGP ECDSA Algorithm Key - We sent Sherlock Holmes on the case, and now it’s encrypting like a champ!
+Fixed: 🚀 Tablet Bottom Navigation - The tablet’s bottom navigation tried its best disappearing act, but we’ve convinced it to stay visible and play nice.
+Fixed: 🔒 SSL Certificate - We’re now prompting to allow connections to servers that have insecure certificates. No more connection refusals! 🎉 
+
+We hope you enjoy these updates, and remember: “Keep calm and update Canary!”
