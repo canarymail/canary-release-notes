@@ -1,0 +1,9 @@
+Hey there, Canary macOS users! We've got some exciting stuff for you in this update, and boy, are we thrilled to share it with you! 🚀 Let's dive right in:
+
+New: 🤖 Chat Assistant - Mail Edition: Get AI-powered responses for emails, making your inbox smarter and sassier than ever before!
+New: 🛠️ Customizable Dashboard - Organize your dashboard like a boss, with the freedom to rearrange sections and widgets to match your style! 😉
+New: 📞 Tag a Contact - Speed up your emailing game by mentioning contacts using "@" - they'll be added directly to the 'To' field, no more searching like a detective on caffeine! 🕵️‍♀️
+New: 🖨️ Print Mail, But Better - Revamped print format with cc and bcc fields included, because email drama deserves a little paper drama too! 📠🎭
+Fixed: 📆 Calendar Invite - We waved our tech wand and made those calendar events span multiple days as they should, say goodbye to one-day mysteries! ✨🗓️
+
+Short and sweet - that's how we roll! Update now and get ready to unleash Canary’s full potential! 🚀😄
