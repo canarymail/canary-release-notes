@@ -1,0 +1,5 @@
+iOS - Reviving the Email Renaissance! 💌
+
+Fixed: Emails couldn’t fool us anymore - emails now actually look read when you zap ’em from notifications! 🕵🏻‍♂️💌
+
+Performance just got an upgrade – Canary Mail is smoother, faster, and ready to impress! 🚀🎉
