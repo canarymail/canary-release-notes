@@ -1,0 +1,9 @@
+🚀 Canary's New Year Buzz: Launching Rules & Filters!
+
+New: 🎭 Rule the Chaos: Create custom rules to organize and filter your mails the way you want.
+New: 🚫 Block Sender: Say goodbye to unwanted emails with our Block Sender feature. Bid farewell to email nuisances with a click.
+New: 🔄 Auto CC/BCC Brilliance: No more manual hassle! Let Canary Mail automate your CCs and BCCs seamlessly.
+
+Fixed: We've squashed those pesky bugs, giving Canary a turbo boost for unmatched efficiency!
+
+Performance just got an upgrade – Canary Mail is smoother, faster, and ready to impress! 🚀🎉
