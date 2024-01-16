@@ -4,5 +4,6 @@ New: 🌟 Copilot Chat Options: Turbocharge your Copilot with new capabilities, 
 New: 🚀 Auto Summarize: Let the app do the work! Canary now automatically summarizes long emails and learns from your past email practice for a seamless email experience.
 New: 🛑 Block Sender Revamped: Bid farewell to email nuisances with our simpler and easy-to-find Block Sender feature.
 
-✨ Bug Fixes: We've polished Canary for a smoother, glitch-free experience!
+Fixed: We've polished Canary for a smoother, glitch-free experience!
+
 ⚡️Cheers to a thrilling email experience!
