@@ -1,0 +1,8 @@
+🚀 Rev up your email experience with this update! 
+
+New: 🎹 Navigate messages effortlessly using the keyboard.
+Fixed: 📅 Say goodbye to those pesky disabled events cluttering your calendar. Smooth sailing from here on out!
+Fixed: 🔗 No more vanishing acts! Undoing now works properly in the hyperlink dialog. 
+Fixed: 📥 Folders now appear during searches, even when preview lines are set to 0.
+
+Canary Mail is geared up to offer you a smoother, more intuitive email experience than ever before. Update now and stay ahead in the email game! 💌✨
