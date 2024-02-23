@@ -2,7 +2,8 @@
 
 Fixed: 📱 iOS widgets got a makeover – no more lurking black edges!
 Fixed: 📝 Reminders now won't confuse you with cryptic message links.
-Fixed: 📅 Say goodbye to those pesky disabled events cluttering your calendar. Smooth sailing from here on out!
+Fixed: 👋 Say goodbye to iPad display glitches when the stage manager is on.
+Fixed: 📅 Selecting zero accounts no longer floods your calendar screen with events, avoiding the conflict with copilot slots.
 Fixed: 💾 Saved your drafts from a wild disappearing act when venturing into settings.
 Fixed: 📎 You can now skip the file-saving dance and paste PDFs directly into your emails from Pages & Numbers app.
 
