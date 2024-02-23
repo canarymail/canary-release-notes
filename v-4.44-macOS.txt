@@ -2,7 +2,6 @@
 
 New: 🎹 Navigate messages effortlessly using the keyboard.
 Fixed: 📅 Selecting zero accounts no longer floods your calendar screen with events, avoiding the conflict with Copilot slots.
-Fixed: 🔗 No more vanishing acts! Undoing now works properly in the hyperlink dialog. 
 Fixed: 📥 Folders now appear during searches, even when preview lines are set to 0.
 
 Canary Mail is geared up to offer you a smoother, more intuitive email experience than ever before. Update now and stay ahead in the email game! 💌✨
