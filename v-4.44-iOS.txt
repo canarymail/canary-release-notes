@@ -1,0 +1,9 @@
+🚀 Rev up your email experience with this update! 
+
+Fixed: 📱 iOS widgets got a makeover – no more lurking black edges!
+Fixed: 📝 Reminders now won't confuse you with cryptic message links.
+Fixed: 📅 Say goodbye to those pesky disabled events cluttering your calendar. Smooth sailing from here on out!
+Fixed: 💾 Saved your drafts from a wild disappearing act when venturing into settings.
+Fixed: 📎 You can now skip the file-saving dance and paste PDFs directly into your emails from Pages & Numbers app.
+
+Canary Mail is geared up to offer you a smoother, more intuitive email experience than ever before. Update now and stay ahead in the email game!  💌✨
