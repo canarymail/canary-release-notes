@@ -1,6 +1,7 @@
 🚀 Embrace an upgraded email journey with this latest release!
 
 New: 🆕 Read Receipts visibility added – Now you can easily find it on your default toolbar 🕵️‍♂️📩
+Fixed: 🖼️ Copying and pasting images now attaches them inline, not as separate attachments. 
 Fixed: 🗑️ Drafts now possess better self-esteem – they no longer keep reappearing after being tossed into the Trash. 
 Fixed: ✉️ When sending an email as an alias, receiving a reply will now correctly set the alias as the default "From" when hitting reply. No more identity crises for your emails! 🎭
 Fixed: 📅 Events no longer have FOMO and hog the entire day when you deselect "all day". Now they're content with just a slice of time.
