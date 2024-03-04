@@ -1,0 +1,9 @@
+🚀 Embrace an upgraded email journey with this latest release!
+
+Fixed:🎥 Videos in emails can now be paused or rewound – now you can control your email videos like a director!
+Fixed: 📅 Calendar events with identical start and end times now visible in Daily View. Every event gets its moment in the spotlight!
+Fixed: 🎨 Changing Theme with drafts open now works properly – because even drafts deserve a makeover!
+Fixed: 🔖 Emails now stay put in their designated folders after rule application. No more inbox sneak attacks! 🚫
+Fixed: 🤖 Copilot now understands you're replying to group email lists and not the newsletter. No more AI confusion! 
+
+Short and sweet - that's how we roll! Update now and get ready to unleash Canary’s full potential! 🚀😄
