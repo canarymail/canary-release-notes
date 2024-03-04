@@ -1,6 +1,7 @@
 🚀 Embrace an upgraded email journey with this latest release!
 
 New: 🆕 Read Receipts visibility added – Now you can easily find it on your default toolbar 🕵️‍♂️📩
+New: 📅 Introducing the repeat function in the calendar! Never manually set recurring events again - let Canary handle the repetition for you! 🔄
 Fixed: 🖼️ Copying and pasting images now attaches them inline, not as separate attachments. 
 Fixed: 🗑️ Drafts now possess better self-esteem – they no longer keep reappearing after being tossed into the Trash. 
 Fixed: ✉️ When sending an email as an alias, receiving a reply will now correctly set the alias as the default "From" when hitting reply. No more identity crises for your emails! 🎭
@@ -10,7 +11,7 @@ Fixed: 📆 Canary now lets you crash the party with more than 5 participants in
 Fixed: 🔗 Composing emails with clickable links is now smoother than a cat chasing a laser pointer.
 Fixed: 🏷️ Clicking on Labels in Swipe Actions now produces results faster than a magician pulling a rabbit out of a hat. Abracadabra!
 Fixed: 🌐 The URL for Canary's emails is now as reliable as a best friend – always there when you need it.
-Fixed: ⌨️ Keyboard shortcuts now stick around even after a Mac restart, unlike that one friend who always forgets their keys.
+Fixed: ⌨️  Keyboard shortcuts now stick around even after a Mac restart, unlike that one friend who always forgets their keys.
 Fixed: ✉️ Canary now smoothly handles multiple email addresses from webpages' hyperlinks. No one gets left behind in the email chain! 📧🎉
 
 We hope you enjoy these updates, and remember: “Keep calm and update Canary!” 🤖📲
