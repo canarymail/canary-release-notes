@@ -7,10 +7,8 @@ Fixed: 🗑️ Drafts now possess better self-esteem – they no longer keep rea
 Fixed: ✉️ When sending an email as an alias, receiving a reply will now correctly set the alias as the default "From" when hitting reply. No more identity crises for your emails! 🎭
 Fixed: 📅 Events no longer have FOMO and hog the entire day when you deselect "all day". Now they're content with just a slice of time.
 Fixed: 🗓️ The calendar list no longer plays hide-and-seek with inactive calendars. They've finally stopped ghosting us!
-Fixed: 📆 Canary now lets you crash the party with more than 5 participants in Calendar events. The more, the merrier!
 Fixed: 🔗 Composing emails with clickable links is now smoother than a cat chasing a laser pointer.
 Fixed: 🏷️ Clicking on Labels in Swipe Actions now produces results faster than a magician pulling a rabbit out of a hat. Abracadabra!
-Fixed: 🌐 The URL for Canary's emails is now as reliable as a best friend – always there when you need it.
 Fixed: ⌨️  Keyboard shortcuts now stick around even after a Mac restart, unlike that one friend who always forgets their keys.
 Fixed: ✉️ Canary now smoothly handles multiple email addresses from webpages' hyperlinks. No one gets left behind in the email chain! 📧🎉
 
