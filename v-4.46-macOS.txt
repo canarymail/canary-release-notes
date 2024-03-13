@@ -1,0 +1,16 @@
+📩 Canary Mail update alert! Get ready for a inbox makeover with our latest features!
+
+New: Spice things up with theme customization! Now your email can match your mood. No matter the system theme. 🎨💼
+New: Say hello to the new and improved bulk cleaner! It's like giving your inbox a sparkling makeover. 🧹✨
+New: Mark emails as read manually or set them to auto-mark after a few seconds. Zoom! ⏰
+New: No need to play detective! Canary now suggests invitees while you type, making planning a breeze. 🕵️‍♂️📅
+New: Because even event links deserve to stand out in a sea of text. Blue is the new black, after all. 🔵📅
+New: Now, copy conversation summaries for sharing or a good chuckle. It's like having a highlight reel for your inbox! 📝😄
+New: Tired of dull emails? Our new template UI lets you add attachments too! It's like having a personal email stylist and assistant rolled into one. 📎📧
+Fixed: No more vanishing acts! Undoing now works properly in the hyperlink dialog. Hyperlinks and hocus-pocus resolved! 🧙‍♂️🔮
+Fixed: Canary's no longer confusing links for events and package trackers for phone numbers. No more wild goose chases in your inbox! 🦆🔍
+Fixed: Canary now lets you crash the party with more than 5 participants in Calendar events. The more, the merrier! 📆
+Fixed: The URL for Canary’s emails is now as reliable as a best friend – always there when you need it. 🌐
+Fixed: Search results are now better than ever. It's like finding a needle in a haystack, but with a magnet. ✨🔍
+
+Don't miss out! Update now and let the email fun begin! 💌✨
