@@ -3,7 +3,6 @@
 New: Spice things up with theme customization! Now your email can match your mood. No matter the system theme. 🎨💼
 New: Mark emails as read manually or set them to auto-mark after a few seconds. Zoom! ⏰
 New: Now, copy conversation summaries for sharing or a good chuckle. It's like having a highlight reel for your inbox! 📝😄
-New: Tired of dull emails? Our new template UI lets you add attachments too! It's like having a personal email stylist and assistant rolled into one. 📎📧
 Fixed: Clicking "Empty" in the Spam folder actually empties it now. No more hiding emails under the digital rug! 🗑️🕵️‍♂️
 Fixed: The 'Aa' styling icon can now breathe easy without causing an app meltdown. Fonts rejoice everywhere! 🤓📱
 Fixed: Search results are now better than ever. It's like finding a needle in a haystack, but with a magnet. ✨🔍
