@@ -1,0 +1,18 @@
+🚀 Exciting Updates and Fixes Unveiled! 🚀
+
+We're excited to unveil a range of fixes that will revolutionize your Canary experience. Say goodbye to glitches and hello to a smoother, better experience! 📧🛠️
+
+New: 🤖 Support information prompts - Canary now provides context-aware in-app popups to help you debug issues and/or easily reach support.
+New: 🔐 Effortless GPG Key Import - Now, importing GPG keys is as simple as a tap! Just tap on the GPG key to import it seamlessly.
+New: 💻 Spacebar Message Scrolling - Use the spacebar to scroll through messages and the message list effortlessly, making navigation smoother than ever.
+New: 📅 Event Addition Icon - An icon for adding events has been introduced for easier event creation within Canary.
+
+Fixed: 🗑️ Empty Trash Button Restored - The "Empty Trash" button in the Trash folder no longer disappears after clicking the "Read Receipt" button.
+Fixed: 📤 Shortcut Reply Functionality Restored - Reply shortcuts now work seamlessly when clicked on the email preview pane.
+Fixed: ⏰ Snooze Folder Order Update - Most recent emails appear at the top, last ones at the bottom for easier management.
+Fixed: 💻'Tab' Key Composing Email - The 'Tab' key now works seamlessly while composing emails, enhancing your typing experience.
+Fixed: ✅ Individual 'Read Receipts' Access - Accessing 'Read Receipts' individually for the toolbar is now hassle-free; no need to drag the default toolbar anymore.
+Fixed: 📅 Calendar Stability Improved - Experience improved stability as Canary no longer crashes while adding invitees.
+Fixed: 🔄 Cross-Device Sync Email Labeling - Emails moved to labels from macOS now sync correctly with iOS, ensuring seamless cross-device organization.
+
+Here's to a future filled with seamless email management and unparalleled productivity. We hope you'll enjoy this update as much as we enjoyed crafting it for you! 🚀✨
