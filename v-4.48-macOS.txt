@@ -3,7 +3,6 @@
 We're excited to unveil a range of fixes that will revolutionize your Canary experience. Say goodbye to glitches and hello to a smoother, better experience! 📧🛠️
 
 New: 🤖 Support information prompts - Canary now provides context-aware in-app popups to help you debug issues and/or easily reach support.
-New: 🔐 Effortless GPG Key Import - Now, importing GPG keys is as simple as a tap! Just tap on the GPG key to import it seamlessly.
 New: 💻 Spacebar Message Scrolling - Use the spacebar to scroll through messages and the message list effortlessly, making navigation smoother than ever.
 New: 📅 Event Addition Icon - An icon for adding events has been introduced for easier event creation within Canary.
 
