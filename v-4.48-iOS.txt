@@ -1,0 +1,19 @@
+🚀 Exciting Updates and Fixes Unveiled! 🚀
+
+
+We're excited to unveil a range of fixes that will revolutionize your Canary experience. Say goodbye to glitches and hello to a smoother, better experience!📧🛠️
+
+New: 🤖 Support information prompts - Canary now provides context-aware in-app popups to help you debug issues and/or easily reach support.
+New: 🔐 Effortless GPG Key Import - Now, importing GPG keys is as simple as a tap! Just tap on the GPG key to import it seamlessly.
+
+
+Fixed: 🏷️ Label Moving Glitch Resolved - Emails won't bounce back to the inbox after you've organized them into labels, even if you restart the app.
+Fixed: 🗑️ iCloud Emails Disappear - Deleted iCloud emails now vanish promptly after deletion, no more coming back after reopening.
+Fixed: 🔄 Accurate App Progress - You'll now see progress bars accurately, disappearing once the progress reaches 100 percent.
+Fixed: 📤 No More unnecessary "Send Again" - We've removed the "Send Again" option from the drafts folder to avoid any confusion.
+Fixed: 📬 Address Duplication Fixed - When undoing sent emails, you won't see duplicate CC & BCC addresses cluttering your drafts.
+Fixed: 📧 iOS widget no longer displays snoozed emails. Enjoy a clutter-free view! 
+Fixed: ⏰ Snooze Folder Order Update - Most recent emails appear at the top, last ones at the bottom for easier management.
+
+
+Here's to a future filled with seamless email management and unparalleled productivity. We hope you'll enjoy this update as much as we enjoyed crafting it for you! 🚀✨
