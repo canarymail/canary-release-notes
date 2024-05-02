@@ -1,0 +1,13 @@
+This update has everything you need to supercharge your productivity! 🚀 
+
+New: 🤝 Seamless Integrations - We've teamed up with Todoist and Asana to supercharge your productivity to effortlessly integrate your emails and tasks.
+New: 📩 Instant replies - Get pre-drafted responses at your fingertips, reducing the time spent pondering over each message. 
+New: 📬 Free Push Notifications - Now enjoy push notifications as a free feature with Canary. Never miss an important email or update again.
+New: 📢 Stay Informed with Frill - Stay more connected with Canary with our in-app Frill roadmap, announcements and feature requests sharing.
+New: 🔐 Effortless Encryption - Importing GPG keys has never been easier! Simply tap to import your GPG key.
+
+
+Fixed: 🗂️ Category Clarity - Navigate with confidence! Clicking on 'Personal' or any other category now reveals the Categories as intended, eliminating any confusion with 'Filters'.
+Fixed: 📬 Timely Notifications - Multiple iPhones synced via iCloud will now receive timely notifications for new emails, ensuring you never miss an important message.
+
+Upgrade now and dive into a world of productivity and connectivity!
