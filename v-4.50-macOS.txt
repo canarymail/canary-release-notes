@@ -8,7 +8,6 @@ New: 💬 Instant Support Access - Easily reach support from the main menu bar a
 New: 🔐 Effortless Encryption - Importing GPG keys has never been easier! Simply tap to import your GPG key.
 New: 🔀 Search bar for Move: While moving emails to a folder, now you can type in the search to quickly find the destination.
 
-Fixed: 📧 Multi-Email Selection Fix: The count now appears correctly when selecting multiple emails.
 Fixed: 🗑️ Empty Trash Icon Persistence: The 'Empty Trash'/'Empty Junk' icon now disappears when the Trash/Junk folder is empty, keeping your UI clean.
 Fixed: 🚪 Login Interface Polish: The login interface is now rendered correctly, providing a more user-friendly experience.
 
