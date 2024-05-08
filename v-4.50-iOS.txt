@@ -6,6 +6,5 @@ New: 📢 Stay Informed with Frill - Stay more connected with Canary with our in
 New: 🔐 Effortless Encryption - Importing GPG keys has never been easier! Simply tap to import your GPG key.
 
 Fixed: 🗂️ Category Clarity - Navigate with confidence! Clicking on 'Personal' or any other category now reveals the Categories as intended, eliminating any confusion with 'Filters'.
-Fixed: 📬 Timely Notifications - Multiple iPhones synced via iCloud will now receive timely notifications for new emails, ensuring you never miss an important message.
 
 Upgrade now and dive into a world of productivity and connectivity!
