@@ -1,0 +1,9 @@
+This update has everything you need to supercharge your productivity! 🎉
+
+New: 💌 Instant replies - Get pre-drafted responses at your fingertips, reducing the time spent pondering over each message.
+New: 📬 Whitelist Senders in Load Remote Content - Easily whitelist trusted senders to load remote content hassle-free.
+New: 🖋️ Add Name to Aliases - Personalize your email aliases by adding names for better identification and communication.
+
+Fixed: 📧 Intuitive 'From' Selection for Alias Replies - Seamlessly reply from the appropriate alias with 'From' field now auto-selects alias when replying.
+
+Upgrade now and dive into a world of productivity and connectivity! 🚀
