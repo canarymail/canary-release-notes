@@ -1,0 +1,12 @@
+This update has everything you need to supercharge your productivity! 🎉
+
+New: 📩 Instant replies - Get pre-drafted responses at your fingertips, reducing the time spent pondering over each message. 
+New: 📬 Whitelist Senders in Load Remote Content - Easily whitelist trusted senders to load remote content hassle-free.
+New: 🖋️ Add Name to Aliases - Personalize your email aliases by adding names for better identification and communication.
+
+Fixed: ✅ Alias Email Sending Issue Resolved - Now send emails seamlessly from aliases for a smooth email experience.
+Fixed: 🔢 Accurate Badge Count - Canary badge count now reflects accurate email count for verification emails.
+Fixed: ✨ Enhanced Typing Efficiency - Streamlined typing experience when dealing with content-heavy emails.
+Fixed: 📧 Outlook Alias Sending Restored - Now send emails effortlessly from Outlook aliases.
+
+Upgrade now and dive into a world of productivity and connectivity! 🚀
