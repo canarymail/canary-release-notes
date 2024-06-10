@@ -5,9 +5,6 @@ New: 📅 Calendar RSVP: Manage your calendar directly within Canary Mail. Respo
 New: 📂 Enhanced Folder Management: Create, edit, and delete folders directly from the folder list for a more intuitive workflow.
 New: 🗓️ Calendar View Upgrade: See your schedule like an eagle. Weekly and yearly views added to the Calendar for ultimate planning power
 
-
-
-
 Fixed: 🧩 Multiple Email Stacking: Emails no longer mysteriously stack on top of each other. Your inbox is finally organized, comrade
 Fixed: 📝 Compose Screen: No more disappearing compose screens when adding attachments. We put a stop to that trickery. 
 Fixed: 🔍 Search Functionality Improvement: Your previous search results will no longer vanish when in full-screen mode. Search like a true master!
