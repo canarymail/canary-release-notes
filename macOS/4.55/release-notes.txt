@@ -1,0 +1,9 @@
+Testing
+
+New: 📥 Inbox Zero: Achieve ultimate inbox organization with a streamlined approach to managing your emails. 
+New: 📅 Calendar RSVP: Manage your calendar directly within Canary Mail. Respond to invites with ease and stay on top of your commitments
+
+Fixed: ✨ Email Rendering Resolved: Now your inbox will be as clear and crisp as a freshly printed document.
+Fixed: 🌐 Accurate Email Summaries: Now your summaries will be crystal clear, no matter the original tongue.
+
+Take control of your inbox with this powerful update! 🏆
