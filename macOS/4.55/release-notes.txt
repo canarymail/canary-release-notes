@@ -1,9 +1,13 @@
-Testing
+We've got some exciting improvements and bug fixes to make your email experience even smoother in this update. 💌🚀
 
-New: 📥 Inbox Zero: Achieve ultimate inbox organization with a streamlined approach to managing your emails. 
-New: 📅 Calendar RSVP: Manage your calendar directly within Canary Mail. Respond to invites with ease and stay on top of your commitments
+New: 🔍 Search like a pro: Finding what you need just got easier with the "Cmd + F" shortcut for searching within the mail.
+New: 🔧 Integrations upgrade: Take control of your email experience with the ability to add integrations to swipes and customize the toolbar for quick actions.
+New: 🏎️ Zipping through emails: Navigate the app like a boss using the "Tab" key to move between different elements.
+New: 📄 All-encompassing templates: The revamped templates UI now lets you add attachments, making template usage a breeze.
 
-Fixed: ✨ Email Rendering Resolved: Now your inbox will be as clear and crisp as a freshly printed document.
-Fixed: 🌐 Accurate Email Summaries: Now your summaries will be crystal clear, no matter the original tongue.
 
-Take control of your inbox with this powerful update! 🏆
+Fixed: 🐛 Composing conquered: We squashed a bug that caused the compose screen to hide behind the main window after attaching a file. No more disappearing act!
+Fixed: 🔄 Reply/forward all fixed: Reply and forward indicators will now show up correctly even if you don't have "Organize by Thread" turned on.
+Fixed: 👤 Contact panel stays hidden: The contact profile pane will no longer reappear after you close it, keeping things clean and organized.
+
+We hope you enjoy this update! Keep an eye out for more improvements coming your way soon. 🎉
