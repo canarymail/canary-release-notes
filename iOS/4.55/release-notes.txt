@@ -1,9 +1,16 @@
-Testing
+We've got some exciting improvements and bug fixes to make your email experience even smoother in this update. 💌🚀
 
-New: 📥 Inbox Zero: Achieve ultimate inbox organization with a streamlined approach to managing your emails. 
-New: 📅 Calendar RSVP: Manage your calendar directly within Canary Mail. Respond to invites with ease and stay on top of your commitments
+New: 📅 Stay on top of your schedule: Get notified for calendar events directly within Canary Mail when you set an alert. No more missing important meetings!
+New: 🔧 Integrations upgrade: Take control of your email experience with the ability to add integrations to swipes and customize the toolbar for quick actions.
+New: 🔔 Improved notification clarity: Notification previews are now more concise, giving you the essential information at a glance.
+New: 📄 All-encompassing templates: The revamped template UI now lets you add recipients and attachments, making template usage a breeze.
 
-Fixed: ✨ Email Rendering Resolved: Now your inbox will be as clear and crisp as a freshly printed document.
-Fixed: 🌐 Accurate Email Summaries: Now your summaries will be crystal clear, no matter the original tongue.
+Fixed: 🖥️ Enhanced email preview pane: We've addressed issues affecting the email preview pane, ensuring a smooth reading experience.
+Fixed: 🌐 Accurate email summaries: Email summaries will now display information in the correct language.
+Fixed: 📱 Optimized iPad view: Filter and read receipts buttons are now visible in portrait orientation on iPads, providing consistent functionality.
+Fixed: 🗄️ Improved storage management: We've made improvements to optimize storage usage by Canary Mail.
+Fixed: 📂 Seamless O365 attachment access: You can now open attachments directly within Canary Mail for your O365 accounts.
+Fixed: 🔄 Reliable draft syncing: Drafts will now sync seamlessly across all your devices, ensuring your work is always accessible.
+Fixed: 📱 iPad Shortcuts with Magic Keyboard: Utilize the power of iPad Shortcuts with the Magic Keyboard for improved email management.
 
-Take control of your inbox with this powerful update! 🏆
+We hope you enjoy this update! Keep an eye out for more improvements coming your way soon. 🎉
