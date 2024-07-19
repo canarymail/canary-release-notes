@@ -1,0 +1,11 @@
+🎉 We're excited to announce a new update for Canary Mail! ✨
+
+New: 📬 Inbox Zero Revamp: We've made significant improvements to the Inbox Zero feature to help you stay organized and on top of your emails.
+New: 🌍 In-app Dutch translation corrections: We've addressed inaccuracies in the Dutch language translation within the app for a smoother user experience.
+New: 📅 Automatic Calendar Display: When an email contains a date, the right sidebar now automatically shows the calendar with that date opened for seamless scheduling.
+
+Fixed: 🔧 Notification Actions: Fixed an issue where Notification Actions were not selectable in languages other than English.
+Fixed: 🔒 Email Password Security: Canary Mail will no longer display your email password in Settings > Accounts > Server Settings menu.
+Fixed: 🛠️ Integrations Menu: The "Add Integration" option in the right-click menu for emails is now functional.
+
+We hope you enjoy this update! 🎉
