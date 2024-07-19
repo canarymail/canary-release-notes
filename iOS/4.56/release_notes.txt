@@ -1,0 +1,5 @@
+🎉 We're excited to announce a new update for Canary Mail! ✨
+
+New: 🔔 Calendar Notifications Toggle: You can now easily enable or disable Calendar notifications directly within the Canary Mail app. Head over to Preferences > Notifications and look for the new "Calendar Notifications" toggle located after Smart Notifications.
+
+This update gives you more control over your notifications and keeps your inbox organized. We hope you enjoy this update! 📬
