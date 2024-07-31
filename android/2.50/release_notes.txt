@@ -1,0 +1,14 @@
+We've got some exciting improvements and bug fixes to make your email experience even smoother in this update.
+
+Fixed: 🛠️ Taskbar reliability: We've tamed the taskbar beast so you can unleash Canary with a single click. No more waiting around, it's instant gratification.
+Fixed: 🚀 Performance boost: Say goodbye to CPU hogging and hello to a smooth experience.
+Fixed: ✨ Conversation summaries: Condense epic email threads into bite-sized summaries—because who has time for novels?
+Fixed: 📁 EML sharing: Share emails as EML files with ease!
+Fixed: ⌨️ Shortcut consistency: Delete shortcuts are now saved and work as expected.
+Fixed: 🛡️ Fixed crashes: Numerous stability improvements have been implemented to enhance the overall user experience.
+
+New: 📎 Attachment Alert: Forget to attach that important file? Don't worry, Canary's got your back.
+New: 🔄 Account Juggling Made Easy: Arrange your accounts, your way.
+New: 📧 Default mail app: Make Canary your go-to mail app with one click.
+
+We're continuously working on improving Canary Mail. Stay tuned for more updates and features!
