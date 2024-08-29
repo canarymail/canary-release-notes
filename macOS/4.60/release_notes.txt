@@ -8,4 +8,4 @@ New: 🤝 Shared Templates - Foster teamwork by easily sharing templates across 
 
 New: 🔐 Integration with Vade Secure - Fortify your email security with Vade's advanced threat detection, now seamlessly integrated with Canary.
 
-📥 Take control of your inbox and team collaboration with this powerful update. Try Canary Enterprise to use these features.
+📥 Take control of your inbox and team collaboration with this powerful update. 👥 Try Canary Enterprise to use these features.
