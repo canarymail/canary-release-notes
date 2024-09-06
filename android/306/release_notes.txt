@@ -1,0 +1,11 @@
+We've got some exciting improvements and bug fixes to make your email experience even smoother in this update 🎉.
+
+New: 📂 Gmail Categories in Filters: Gmail categories are now added to filters, making inbox organization effortless.
+New: ✅ Select All: Simplify bulk actions and manage multiple emails in a snap with the "Select All" option.
+New: ✉️ Auto CC/BCC: Say goodbye to repetitive tasks—Let Canary Mail automate your CCs and BCCs for hassle-free communication.
+
+Fixed: 🚀 Copilot Chat: Enjoy smooth, reliable chat interactions with fixed issues.
+Fixed: 🖼️ Inline Images Retained: Inline images no longer disappear during proofreading your email.
+Fixed: ⬇️ Sidebar Categories: Quickly hide or show categories for a better view.
+
+We're continuously working on improving Canary Mail. 🚀 Stay tuned for more updates and features! 🔧✨
