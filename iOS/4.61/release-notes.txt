@@ -1,0 +1,6 @@
+🚀 We are excited to introduce an update focused on bug fixes and enhanced performance!🐞 
+
+Fixed: Hotmail Configuration: Resolved the issue where Hotmail accounts were getting stuck on 'autodiscover,' allowing seamless account setup. 📧🔄
+Fixed: O365 Notifications: Eliminated duplicate notifications, so you receive one clear notification per event. 🔔✅
+
+We hope these fixes improve your Canary Mail experience. More enhancements are coming soon; stay tuned! 📲✨
