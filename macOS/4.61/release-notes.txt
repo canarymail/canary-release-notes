@@ -1,0 +1,8 @@
+🚀 We are excited to introduce an update focused on bug fixes and enhanced performance! 🐞
+
+Fixed: Proton Mail Error: We've fixed the 'Move Error' for deleting and archiving emails, so you can enjoy smooth and hassle-free email management. 📧✅
+Fixed: Move Shortcut & Search: The 'Move' shortcut now seamlessly triggers the search function as expected, making navigation smoother. 🔍✨
+Fixed: Send Later Emails: Easily manage your scheduled messages—removing emails from the 'Send Later' folder is now smooth and effortless. 🕒📧
+Fixed: Spam Icon: We've fixed the display issue with the 'Spam' icon, restoring crisp visual clarity to your inbox. 🗑️👀
+
+We hope these fixes improve your Canary Mail experience. More enhancements are coming soon; stay tuned! 🚀📧
