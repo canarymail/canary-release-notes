@@ -1,0 +1,11 @@
+We’re pleased to announce a new update focused on resolving bugs and boosting performance!
+
+Fixed: 🔔 VPN Alert: Get notified if VPN is on, helping you avoid potential disruptions to app performance.
+Fixed: 🔍 Search Enhanced: The search shortcut now works perfectly, even when your inbox reaches zero.
+Fixed: 📥 Blocked Senders Sorted: The "Move To" action in Rules now clearly indicates where blocked emails are headed.
+Fixed: ✉️ Default Alias Fixed: Canary now ensures the correct email address is used to reply, even with a default alias in place.
+Fixed: 🚫 Crashes Resolved: Enjoy a smoother and more reliable experience with resolved crash issues.
+Fixed: 🔗 Filters & Search In Sync: Filters now pair perfectly with search, making it effortless to find what you're looking for.
+Fixed: 📂 Folder Creation Issue: Organize your inbox with ease by creating folders without issues.
+
+We hope these fixes make your Canary Mail experience better. More updates are on the horizon—stay tuned!
