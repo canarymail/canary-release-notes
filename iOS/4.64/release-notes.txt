@@ -1,0 +1,9 @@
+We’re pleased to announce a new update focused on resolving bugs and boosting performance!
+
+Fixed: 🔔 VPN Alert: Get notified if VPN is on, helping you avoid potential disruptions to app performance.
+Fixed: 🚨 Calendar Alerts: We've refined alert settings to ensure they only appear when ON and with Calendar access.
+Fixed: 📅 Calendar Interface: Resolved erratic behavior in Calendar related to font size adjustments for a better experience.
+Fixed: 💌 Default Alias Fixed: Canary now ensures the correct email address is used to reply, even with a default alias in place.
+Fixed: 🗑️ Delete Update: Deleting emails now triggers an immediate removal, ensuring smooth, responsive actions.
+
+We hope these fixes make your Canary Mail experience better. More updates are on the horizon—stay tuned!
