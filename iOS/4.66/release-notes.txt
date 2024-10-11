@@ -1,0 +1,9 @@
+🎉 We’re pleased to announce a new update focused on resolving bugs and boosting performance!
+
+Fixed: 🔤 Sorted Signature: Signatures now display alphabetically, ensuring a cleaner list.
+Fixed: 💾 Download Logs Locally: Easily save app logs directly to your device for faster troubleshooting and support.
+
+Fixed: 📱 Magic Keyboard Issue: Fixed keyboard malfunction after returning from the browser—no need to reopen Canary.
+Fixed: 🗑️ Deleted Emails Display: The 'Deleted' message display now disappears instantly after deleting emails.
+
+We hope these fixes make your Canary Mail experience better. More updates are on the horizon—stay tuned! 😊
