@@ -1,0 +1,6 @@
+We are excited to introduce our latest update, designed to enhance your experience by addressing bugs and improving performance! 🚀
+
+Fixed: 🔔 Accurate Event Alerts: Enjoy precise notifications! The event day now displays correctly as the event approaches.
+Fixed: 📧 Clean Email View: Emails without a subject now display seamlessly, ensuring a cleaner, more organized inbox.
+
+We hope these enhancements will elevate your Canary Mail experience. Stay tuned for more exciting updates coming soon! 🌟
