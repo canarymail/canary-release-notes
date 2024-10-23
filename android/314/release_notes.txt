@@ -1,0 +1,11 @@
+🚀 Canary Mail Update 🚀
+We’re excited to announce a new update unveiling fixes and performance improvements! 
+
+Fixed: Swipe Navigation: Resolved left-swipe action issues for smoother navigation - no more accidental email selections!
+Fixed: Customizable Account Order: You can now rearrange your account order in the left side-pane with ease - striving for your best experience.
+Fixed: Non-English Folders Support: Fixed a glitch where emails couldn’t be moved to folders with non-English names. Problem solved!
+Fixed: Foldable phone compatibility: We're with you every step. Upgrade to foldable phones? Enjoy a seamless email experience, no matter the device!
+
+🌟 Improvements: Improved French translations! Bonjour to a better experience!
+
+We hope these fixes make your Canary Mail experience better. More updates are on the horizon—stay tuned!
