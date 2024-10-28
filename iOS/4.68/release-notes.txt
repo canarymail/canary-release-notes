@@ -1,0 +1,9 @@
+🚀 Canary Mail Update 🚀
+We’re excited to roll out our latest update packed with fixes and improvements!
+
+Fixed: Calendar Events: No more missing events! We’ve fixed a major bug where some recurring events weren’t showing up in your calendar.
+Fixed: Default Browser: We’ve squashed the bug that stopped your default browser setting from being saved—now, it works as expected!
+
+New: App Icon Tint Support: Canary Mail’s app icon now matches the tint you choose on the iOS 18 and above. Enjoy a seamless, personalized look!
+
+We hope these fixes make your Canary experience smoother. Stay tuned—more great things are coming!
