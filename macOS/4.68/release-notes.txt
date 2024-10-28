@@ -1,0 +1,7 @@
+🚀 Canary Mail Update 🚀
+We’re excited to roll out our latest update packed with fixes and improvements!
+
+Fixed: Full Screen Calendar Mode: Fixed an issue where switching between Full Screen Calendar and email list caused the email list button to disappear. Now, you can easily toggle back and forth without a hitch!
+Fixed: Font Size Adjustment: Increasing font size in settings now affects the entire email, not just the 'To,' 'From,' and subject lines. Enjoy a more comfortable reading experience!
+
+We’re committed to improving your workflow—stay tuned for more updates!
