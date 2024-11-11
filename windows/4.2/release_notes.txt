@@ -1,12 +1,17 @@
-We've got some exciting improvements and bug fixes to make your email experience even smoother in this update 🎉.
+We're thrilled to introduce our latest update, packed with improvements and bug fixes to make your Canary experience smoother than ever! 🚀
 
-Fixed: 🔍 Seamless Email Preview: See what's next. Your preview instantly adjusts after deleting or archiving emails.
-Fixed: 🛡️ Compose Shield: Never lose your work again. Canary now prompts you to save unsaved emails before exiting, so you can pick up where you left off.
-Fixed: 🧹 Bulk Cleaner Enhanced: Your choices stay put. Deselected emails now remain untouched as you scroll.
-Fixed: 📄 Doc Access Unlocked: Seamlessly manage emails requesting document access. No more workflow interruptions.
-Fixed: 🎯 Focus Enhanced: Fixed a bug that caused cursor invisibility in the Compose screen when using a light theme. Compose emails with ease now!
+Fixed: 🖱️ Compose Window Shortcuts: Windows shortcuts are back in action for the Compose window—compose emails with ease!
+Fixed: 📜 Compose Screen Scrolling: Smooth scrolling restored! The up and down arrow keys now scroll the Compose screen correctly.
+Fixed: 📎 Attachment Forwarding: No more missing attachments! Forwarding emails now includes all attachments, even if they have the same file type.
+Fixed: 📥 Bulk Cleaner Selection: Bulk Cleaner now auto-selects emails on your screen without needing a scroll.
+Fixed: 📧 Reply All in Preview: Added the Reply All option in the preview screen with all correct recipients added in the To field.
+Fixed: 💻 Email Content on Windows: Fixed a glitch with email content loading on Windows 10/11—now all your content loads seamlessly.
+Fixed: 🔔 Notification Replies: Responding from notifications is smooth again! The compose screen now stays front and center.
+Fixed: 🛠️ Toolbar Crash: Clicking See More in the toolbar no longer causes crashes.
+Fixed: ⏱️ Sync Time Display: Synced purchases now display the correct time across devices.
 
-New: 🤖 Copilot Chat: Launching your personal AI email assistant chat. Compose smarter, find faster, manage easier.
-New: ↩️↪️ Reply/Forward Indicators: Stay on top of your email conversations with our visual cues that show which messages have been replied to or forwarded.
+New: ☝️ Swipe Actions: Swipe emails effortlessly with our new swipe actions—and undo if needed!
+New: 📤 Auto CC/BCC: Automatically add CC/BCC recipients to every email, making communication even easier.
+New: 📂 Filter Categories: Categories will now make it easier to organize and locate emails.
 
-We're continuously working on improving Canary Mail. 🚀 Stay tuned for more updates and features! 🔧✨
+We hope these updates make your Canary Mail experience even better. Keep an eye out—more exciting updates are on the way! 🎉
