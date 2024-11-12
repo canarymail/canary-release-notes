@@ -1,0 +1,7 @@
+We're excited to roll out our latest update, focused on tackling critical email rendering issues to make your Canary experience smoother and visually flawless! 🚀
+
+Fixed: 🖼️ Email Images Rendering: No more stretched images! Email images now display in their correct aspect ratio in Canary.
+Fixed: 📎 Email Images in Preview: Fixed an issue where images in emails appeared as attachments instead of inline. Now, images show up directly within the email body in preview.
+Fixed: 📧 Email Rendering Issue: Some email rendering bugs have been resolved to improve stability and ensure seamless display across different formats.
+
+We hope these updates make your Canary experience even better. Stay tuned for more exciting updates coming soon! 🎉
