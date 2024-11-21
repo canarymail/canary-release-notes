@@ -1,0 +1,11 @@
+We’re thrilled to roll out an update focused on compatibility and visual enhancements to make your Canary experience smoother than ever!
+
+New: 🎨 Themed Icon Support: Our app icon now adapts to your device’s theme and wallpaper on Android 12+ for a seamless, personalized look.
+
+Fixed: 📧 Contact Links in Emails: Links for Support and Sales contact in mails now open directly in the compose screen!
+Fixed: 🔔 Enhanced Notifications: Notifications are now more polished and visually appealing, enhancing your experience every time.
+Fixed: 📲 Notification Fetch Launch: Clicking on a notification now opens the app reliably, even when it’s closed.
+Fixed: 🟢 App Icon Background: Resolved an issue causing a green background to appear on the app icon when using the back button.
+Fixed: 🛠️ Crash Issues: Addressed stability issues for a smoother, more reliable performance.
+
+We hope these updates make your Canary experience even better. Stay tuned for more exciting updates coming soon! 🎉
