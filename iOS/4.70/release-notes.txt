@@ -1,0 +1,11 @@
+We’re excited to roll out our latest update packed with fixes and improvements!
+
+Fixed: All Accounts in Sidebar: Tapping "All Accounts" now reliably opens the All Inbox menu. Tap anywhere on the line for quick access!
+Fixed: Copilot Schedule: Times now display correctly and update smoothly in Copilot Schedule settings.
+Fixed: File Sharing: Fixed an issue in iOS 18 where file sharing from ‘Files’ would show a “Sharing” prompt without completing the action.
+Fixed: Label Selection: Tapping on labels now works as expected for quick organization.
+
+New: Paste Without Formatting: In addition to existing paste options, you can now also paste text without formatting.
+New: @Mentions in Compose: You can now tag recipients directly in the compose text using "@" and they will get added to the recipient field!
+
+We hope these updates make your Canary experience smoother. Stay tuned—more great things are on the way!
