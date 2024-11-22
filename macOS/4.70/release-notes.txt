@@ -1,0 +1,9 @@
+We’re excited to bring you a fresh round of fixes and enhancements to make your Canary experience smoother and more intuitive!
+
+Fixed: Rules for Capitalized Addresses: Rules now function as expected, even if the sender’s address is written in capital letters.
+Fixed: Search Actions: You can now switch between “Search this thread” and “Search Everywhere” seamlessly in the Copilot Chat search field.
+
+New: Label Management Enhancements: You can now directly create labels from the email list, with updated icons and improved spacing for a cleaner view.
+New: Paste Without Formatting: In addition to "Paste and Match Style", you can now also paste text without formatting!
+
+We hope these updates make your Canary experience even better. Stay tuned for more!
