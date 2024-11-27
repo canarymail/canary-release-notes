@@ -1,0 +1,9 @@
+We're thrilled to introduce new updates designed to enhance your workflow and email management! 🎉
+
+Fixed: 🧹 Bulk Cleaner Behavior: Bulk cleaner will now remain active unless explicitly disabled by clicking the bulk cleaner icon.
+
+New: 📸 Inline Image vs. Attachments UI: Easily distinguish between inline images and attachments, with the flexibility to drop files anywhere on the compose screen.
+New: 📧 Mailto Link Redirection: Clicking mailto links now redirects to Canary, opening the compose window with the recipient pre-filled.
+New: ⚙️ Default Mailing App: Set Canary as your default mailing app directly from system settings for seamless integration.
+
+We hope these updates improve your experience. Stay tuned for more exciting features! 🎉
