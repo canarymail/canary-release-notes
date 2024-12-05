@@ -1,0 +1,9 @@
+We're thrilled to introduce new enhancements and fixes to streamline your email experience! 🎉
+
+New: 🌐 Copilot Chat Translation: Copilot can now translate emails from any language to English.
+New: ➕ Swipe Actions - More Option: Introducing additional operations via the "More" option in swipe actions for a better experience.
+
+Fixed: 📧 Email Alias Display: Aliases are now indented properly, making them easy to distinguish from primary email addresses.
+Fixed: 📝 Auto-Numbered Templates: Templates are now automatically named in sequence, similar to Signatures, for better organization.
+
+We hope you enjoy these improvements. Stay tuned for more updates! 🎉
