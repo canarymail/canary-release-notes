@@ -1,0 +1,7 @@
+We're excited to roll out new fixes to enhance your email experience and streamline notifications!
+
+Fixed: 📧 Email Deletion: Deleting emails from notifications instantly removes the notification for a clutter-free experience.
+Fixed: 📩 Fetch Notifications: Fixed an issue where fetch notifications weren't working.
+Fixed: 👻 Ghost Messages/Threads: Resolved the appearance of ghost messages with no subject or body after deleting emails.
+
+We hope these updates improve your experience. Stay tuned for more!
