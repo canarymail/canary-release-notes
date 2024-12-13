@@ -1,6 +1,6 @@
 We’re thrilled to introduce new fixes and a powerful new feature to make your email experience smoother and more efficient!
 
-New: 🔍 Tokenized Search: Search smarter by filtering emails through specific fields like from, to, cc, subject, and body.
+New: 🔍 Tokenized Search: Search smarter by filtering emails through specific fields like from, to or subject.
 
 Fixed: 🗑️ Alias Deletion: Seamlessly delete email aliases for easier account management.
 Fixed: 📂 Email Content Stability: Switching between the Email and Files tabs now preserves your email content.
