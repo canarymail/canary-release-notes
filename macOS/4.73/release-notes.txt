@@ -1,0 +1,10 @@
+We’re excited to roll out new updates and fixes to make your email experience smoother and more intuitive!
+
+New: 🔍 Tokenized Search: Filter email results by from, to, cc, subject, or body with our powerful new search feature.
+
+Fixed: 📨 Reply All Behavior: Tagging a recipient in CC now keeps them in CC, maintaining consistent reply behavior.
+Fixed: 🗂️ Bulk Cleaner with Search: When using Bulk Cleaner to delete emails after a search, the selection count now updates accurately as you scroll.
+Fixed: 🔤 Tagging with Special Characters: Easily tag recipients using special characters in the compose screen.
+Fixed: 🛠️ Template Management: Improved template deletion, save pop-ups, and subject handling in the compose screen. 
+
+We hope you enjoy these improvements. Stay tuned for more updates!
