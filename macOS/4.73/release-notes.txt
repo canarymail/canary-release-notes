@@ -1,6 +1,6 @@
 We’re excited to roll out new updates and fixes to make your email experience smoother and more intuitive!
 
-New: 🔍 Tokenized Search: Filter email results by from, to, cc, subject, or body with our powerful new search feature.
+New: 🔍 Tokenized Search: Filter email results by from, to or subject with our powerful new search feature.
 
 Fixed: 📨 Reply All Behavior: Tagging a recipient in CC now keeps them in CC, maintaining consistent reply behavior.
 Fixed: 🗂️ Bulk Cleaner with Search: When using Bulk Cleaner to delete emails after a search, the selection count now updates accurately as you scroll.
