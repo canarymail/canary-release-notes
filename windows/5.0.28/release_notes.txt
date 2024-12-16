@@ -1,8 +1,6 @@
 We're excited to roll out new updates and fixes to make your email experience smoother and more intuitive!
 
 New: 📅 Calendar Integration: Access and manage your calendar directly within the app! Currently supported for Gmail accounts, with support for additional providers coming soon.
-Fixed: 📤 Swipe Actions – 'Read' Option: The 'Read' action is now available in the 'More' swipe options when none of the swipe actions are set as 'Read.'
-Fixed: ✏️ Template Subject Handling: Switching to 'No template' no longer displays the subject of the previously selected template.
 Fixed: 🔐 PGP Passphrase: Password now works for the entire mailbox rather than only the specific email thread.
 
 We hope you enjoy these improvements. Stay tuned for more updates! 🎉
