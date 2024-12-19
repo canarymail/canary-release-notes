@@ -1,0 +1,7 @@
+We’re excited to roll out new updates and fixes to make your email experience smoother and more intuitive!
+
+New: ⚡️ Faster Email Loading: Email content now loads faster for a seamless experience.
+Fixed: 🔔 Notification Handling: Tapping on an email notification now correctly opens the associated email.
+Fixed: 📥 Email Sync: Emails are now synced upon receiving a notification, so they’re ready when you open the app.
+
+We hope you enjoy these improvements. Stay tuned for more updates!
