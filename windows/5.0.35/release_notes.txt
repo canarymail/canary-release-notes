@@ -1,5 +1,8 @@
 We're excited to introduce updates and fixes designed to enhance your email experience with Canary Mail! 🎉
 
+Fixed: 📩 Reply Lag: Improved performance when replying to long emails, ensuring a smooth typing experience.
 Fixed: 📧 Office 365 Email Fetching: Resolved an issue where Office 365 accounts would stop fetching emails over time, ensuring uninterrupted syncing for your mailbox.
+Fixed: ✉️ O365 Sending Issue: Resolved issues with sending emails from O365 accounts, enhancing reliability for this key provider.
+Fixed: 🖋️ Reply-To Field Behavior: When replying, the correct recipient is now added to the 'To' field instead of the sender's email address.
 
-We hope these fixes make your email management smoother and more efficient. Stay tuned for more updates and enhancements! 😊
+We hope these fixes make your email management smoother and more efficient. Stay tuned for more updates and enhancements! 🎉
