@@ -1,0 +1,5 @@
+We're excited to introduce updates and fixes designed to enhance your email experience with Canary Mail! 🎉
+
+Fixed: 📧 Office 365 Email Fetching: Resolved an issue where Office 365 accounts would stop fetching emails over time, ensuring uninterrupted syncing for your mailbox.
+
+We hope these fixes make your email management smoother and more efficient. Stay tuned for more updates and enhancements! 😊
