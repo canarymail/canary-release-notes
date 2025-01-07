@@ -1,0 +1,6 @@
+We're excited to bring you important fixes to enhance your email experience on Android! 🎉
+
+Fixed: ✍️ Drafts Saving: Resolved an issue where drafts couldn't be saved, ensuring your work is always preserved seamlessly.
+Fixed: 📥 Reply-to Behavior: Addressed a bug where replying to an email added the sender's address to the 'To' field instead of the original recipient. This ensures consistent and accurate email replies.
+
+We hope these updates make your email management smoother. Stay tuned for more improvements! 🚀
