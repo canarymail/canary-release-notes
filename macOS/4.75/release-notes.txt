@@ -1,0 +1,8 @@
+We’re excited to roll out key fixes to make your email experience smoother and more efficient!
+
+Fixed: 🖥️ Office365 Email Sync – Major improvements to Office365 email performance! We've included potential fixes for Office365 sync issues where emails were disappearing, not downloading without a restart, or failing to auto-sync.
+Fixed: ⬆️ Recent Search Navigation – The up-arrow key now works seamlessly for navigating recent search results.
+Fixed: ⌨️ Shortcut Setup – Setting 'D' as a shortcut now works without any error.
+Fixed: 📎 Attachment Duplication – Attachments now display correctly, resolving an issue where duplicates appeared in Canary while Gmail shows single.
+
+We hope these updates make managing your emails even better. Stay tuned for more improvements! 🚀
