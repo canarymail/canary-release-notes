@@ -1,0 +1,5 @@
+We’ve improved performance, fixed bugs, and enhanced features to make Canary Mail smoother and more reliable.
+
+Fixed: 📱 Sync Older Emails – You can now sync older emails as you scroll to the bottom of your inbox.
+
+Enjoy a faster, more intuitive email experience with added stability and usability improvements! 🚀
