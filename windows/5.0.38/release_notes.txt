@@ -1,0 +1,9 @@
+Version 5.0.38
+We're excited to bring you another set of updates aimed at improving your Canary Mail experience on Windows! 
+
+Fixed: 🛠️ Crash Issues: Addressed stability issues for a smoother, more reliable performance.
+
+New: 📧 Recipient Tagging in Compose: Use @ in the compose text to tag a recipient and automatically add them to the recipient field.
+New: 🌍 Enhanced Spell Check Support: Canary Mail now supports system languages other than English for spell check, so you can catch those typos in more languages while you type!
+
+We hope these updates improve your overall experience and make email management even smoother. Stay tuned for more updates! 🎉
