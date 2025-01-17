@@ -1,0 +1,6 @@
+We’re excited to bring you updates that enhance your Canary Mail experience!
+
+Fixed: 📱 Sync Older Emails – You can now sync older emails as you scroll to the bottom of your inbox.
+Fixed: 🌐 Language Fix - You can now change Canary Mail’s language to English even if the system language is set to a non-English language.
+
+We’re always working to make Canary Mail better for you. Stay tuned for more updates! 😊
