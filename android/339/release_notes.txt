@@ -1,0 +1,7 @@
+We’re excited to bring you some major updates aimed at improving your Canary Mail experience on Android!
+
+Fixed: 🔃 Sync Older Emails – Upon reaching the bottom of your email list, older emails will automatically sync and appear as you continue scrolling.
+Fixed: 🚀 Faster Email Notifications – Opening emails directly from notifications is now quicker, ensuring a smoother and more seamless experience.
+Fixed: 📄 .TXT File Attachments – These files will now appear as proper attachments instead of being displayed in the email body.
+
+We hope these updates make managing your emails even easier. Stay tuned for more improvements! 😊
