@@ -1,0 +1,9 @@
+We're excited to bring you another round of updates to improve your Canary Mail experience on Windows! Here's what's new: 🎉
+
+Fixed: 📂 Subfolder Nesting: Resolved an issue where subfolders were being displayed as main folders instead of nested under their parent folders.
+Fixed: 🔄 Sync Older Emails: When you reach the bottom of your email list, older emails will now sync and load automatically as you continue scrolling.
+Fixed: ✉️ Special Characters in Sent Emails: Special characters in account names or emails are now displayed correctly on both recipient and sender sides.
+Fixed: 🇬🇷 Greek Language Support: Fixed an issue where Greek characters were not rendered correctly and displayed as '?'.
+Fixed: 🕒 Timezone Event Accuracy: Resolved an issue where events in different time zones were showing incorrect times in Canary.
+
+We hope these updates make your email management smoother and more enjoyable. Stay tuned for more improvements! 😊
