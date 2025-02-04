@@ -1,0 +1,8 @@
+We’re excited to introduce updates and fixes designed to enhance your email experience with Canary Mail!
+
+Fixed: 📧 Reply-To Field Issue – Fixed an issue where the recipient's email address was not automatically added to the 'To' field when replying to an email.
+Fixed: 📂 Gmail Archive Folder Issue – Resolved an issue where the archive folder was being replaced with the account email in the "All Accounts" view.
+Fixed: 🔔 Notification Actions – Addressed an issue where notification actions were not being saved.
+Fixed: ⛔️ Blocked Sender Notifications for Office365 – Blocked senders' notifications will no longer appear for Office365 accounts.
+
+We hope these updates make your email experience even smoother. Stay tuned for more improvements! 😊
