@@ -1,0 +1,7 @@
+We’re excited to roll out key fixes to make your email experience on macOS smoother and more efficient!
+
+Fixed: 📧 Reply-To Field Issue – Fixed an issue where the recipient's email address was not automatically added to the 'To' field when replying to an email.
+Fixed: 📂 Gmail Archive Folder Issue – Resolved an issue where the archive folder was being replaced with the account email in "All Accounts" view.
+Fixed: 🛠️ Crash Issues – Addressed stability issues ensuring smoother and more reliable performance.
+
+We hope these updates enhance your experience and make email management even better. Stay tuned for more improvements! 😊
