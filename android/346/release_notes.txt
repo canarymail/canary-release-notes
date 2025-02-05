@@ -1,0 +1,8 @@
+We’re excited to bring you another set of updates to improve your Canary Mail experience on Android!
+
+Fixed: 📂 Gmail Archive Folder Issue – Resolved an issue where the archive folder was being replaced with the account email in the "All Accounts" view.
+Fixed: 🔔 Push Notifications – Implemented a push notification fix for Android, ensuring you get regular notifications.
+Fixed: ✍️ iCloud Draft Saving Issue – You can now save drafts properly in your iCloud account.
+Fixed: 🔄 iCloud Syncing Issues – Addressed syncing problems with iCloud to ensure smoother and more reliable email updates.
+
+We hope these updates make your email experience even better. Stay tuned for more improvements! 😊
