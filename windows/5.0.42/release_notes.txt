@@ -1,0 +1,9 @@
+We've made important fixes to improve your Canary Mail experience on Windows! Here's what's new: 🎉
+
+Fixed: ☁️ iCloud Sync: Improved iCloud sync and draft saving reliability for a smoother experience.
+Fixed: 🌍 Language Translation: Notification actions now properly translate when changing the app language.
+Fixed: 📎 Attachment Issues: Corrupted PDFs and attachments now open correctly in O365 accounts.
+Fixed: 📱 Gmail Archive Folder Issue: The archive folder in Gmail accounts now displays correctly instead of being replaced by the account email.
+Fixed: ✉️ Copying Multiple Email Addresses: You can now copy and paste multiple email addresses in the 'To,' 'CC,' and 'BCC' fields without issues.
+
+We're always working to improve Canary Mail—thank you for your support! Stay tuned for more updates. 😊
