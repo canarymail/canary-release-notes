@@ -1,1 +1,9 @@
+We're excited to bring you a new update with bug fixes and performance enhancements!
 
+New: 📂 Easy EML Sharing - Sharing EML files is now a breeze with the added 'Show Original' > 'Forward' option.
+
+Fixed: 📧 Sent Email Sync - Fixed an issue where drafts, after being sent, were not syncing across devices.
+Fixed: 📨 Reply All Enhancement - Enjoy a seamless experience with our improved Reply All behaviour.
+Fixed: 📅 Instant Calendar Refresh - New or deleted events now appear instantly in the UI—no more hassle of switching days.
+
+We hope these improvements make your Canary Mail experience better. More updates are on the way—stay tuned!
