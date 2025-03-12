@@ -1,0 +1,6 @@
+We’ve squashed some bugs to make your email experience even smoother!
+
+Fixed: 🔓GPG-encryption Issue - Encrypted text files now decrypt correctly when opened in Canary.
+Fixed: 🔄️ Threading Fix - Outlook replies now correctly show the full conversation thread in Inbox.
+
+Update now for the best experience! 🚀
