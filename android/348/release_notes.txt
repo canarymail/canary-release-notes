@@ -1,0 +1,5 @@
+This update brings essential fixes and improvements to enhance your email experience! 🎉
+
+Fixed: 📂 Corrupted PDF Attachments Issue: Resolved an issue where certain PDFs received in O365 accounts couldn't be opened in Canary.
+
+✨ Update now for a seamless email experience! ✨
