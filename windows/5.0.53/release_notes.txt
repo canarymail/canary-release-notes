@@ -1,0 +1,7 @@
+We've rolled out a new update with important fixes to enhance your email experience! 🎉
+
+Fixed: 📩 Wrong Email Headers & Subject: Resolved an issue where received emails displayed incorrect sender and subject details.
+Fixed: 🈳 Korean Emails Now Render Properly: Fixed a bug where emails in Korean only showed the subject while the content remained unloaded.
+Fixed: 🔄 Zoho Mail Auto-Refresh Issue: Addressed a problem where Zoho Mail accounts required manual refresh to display new emails.
+
+✨ Update now for a smoother email experience! ✨
