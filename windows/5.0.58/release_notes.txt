@@ -1,0 +1,7 @@
+We've made improvements to enhance your email experience! 🎉
+
+Fixed: 🔄 Exchange Sync Issues: Resolved syncing problems with Exchange accounts for smoother email retrieval.
+Fixed: 🔑 PGP Key Import: Opening a .asc file now correctly imports PGP keys into Canary.
+Fixed: 👤 Avatars Not Displayed: Profile avatars are now correctly displayed in Canary.
+
+🚀 Update now for the best experience!
