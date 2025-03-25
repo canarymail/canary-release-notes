@@ -1,0 +1,6 @@
+We've made improvements to ensure you never miss important event updates! 🎉
+
+Fixed: 🕒 Event Notifications: Notifications for rescheduled or canceled events now appear at their original time.
+Fixed: ✉️ Phantom Mail Cells: Resolved the issue where blank rows appeared for new emails in the inbox.
+
+🚀 Update now for the best experience!
