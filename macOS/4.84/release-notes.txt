@@ -1,0 +1,6 @@
+We’ve squashed some bugs and added improvements to make your email experience even smoother!
+
+Fixed: 🤖 Copilot Reply Insertion – Resolved the issue where Copilot generated replies were not being inserted in the compose screen.
+Fixed: 🔓 PGP Email Decryption – Fixed the problem preventing PGP emails from decrypting for O365 accounts.
+
+Update now for the best experience! 🚀
