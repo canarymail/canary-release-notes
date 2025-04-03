@@ -1,0 +1,7 @@
+We’ve made improvements to ensure you have a seamless experience on iOS!
+
+Fixed: ✉️ iPad Email Selection – Resolved the issue where selecting multiple emails caused the bottom operation icons to be cut off.
+Fixed: ✨ iOS 18+ Tinted Mode Widget – Addressed the bug where switching to Tinted mode left the Canary widget blank.
+Fixed: 🔓 PGP Email Decryption – Fixed the problem preventing PGP emails from decrypting for O365 accounts.
+
+We’re always working to improve Canary Mail—thank you for your support! Stay tuned for more updates. 😊
