@@ -1,0 +1,8 @@
+We’re excited to roll out key fixes to make your email experience on macOS smoother and more efficient!
+
+Fixed: 🔤 Sidebar Font Size – Font size changes in Settings now apply correctly to All Accounts, Favorites, and Account Names in the left sidebar.
+Fixed: 🌐 Inbox Categories – Resolved an issue where non-English languages caused some tab text to be cut off in Inbox Categories.
+Fixed: 📋 Image Paste in Compose – Copy and pasting of images into the Compose window now work seamlessly.
+Fixed: 🛑 Email Address Case Sensitivity – You’ll no longer see a warning when the recipient's email address only differs in capitalization.
+
+We’re always refining the Canary experience—thanks for being part of the journey! 🚀
