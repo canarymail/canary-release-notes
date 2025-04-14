@@ -1,0 +1,5 @@
+We've made improvements to enhance your email experience! 🎉
+
+Fixed: 🔄 Yahoo/Exchange Sync Issues: Resolved syncing problems with Yahoo/Exchange accounts for smoother email retrieval.
+
+🚀 Update now for the best experience!
