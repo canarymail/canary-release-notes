@@ -1,0 +1,7 @@
+We’re excited to roll out key fixes to make your email experience on macOS smoother and more efficient! 💻✨
+
+Fixed: 🔑 PGP Key Import – Special characters in public keys no longer cause import failures.
+Fixed: 🔒 Encryption Case Sensitivity – Email encryption now works correctly, whether the address is uppercase or lowercase.
+Fixed: 📧 Alias Address Display – Sending from an alias in O365 accounts now correctly shows the alias instead of your primary address.
+
+We’re always refining the Canary experience—thanks for being part of the journey! 🚀
