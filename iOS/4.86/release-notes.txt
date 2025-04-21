@@ -1,0 +1,10 @@
+We’re rolling out key fixes to make your email experience on iPhone and iPad smoother and more reliable! 📬✨
+
+Fixed: 🔁 Email Thread Refresh – Resolved an issue where previously opened emails in a thread appeared blank when a new message arrived.
+Fixed: 📝 Signature Formatting on iPad – The format section in signature settings is no longer blank—you can style your signatures again!
+Fixed: 👻 Phantom Mail Cells – Blank rows no longer appear for new emails.
+Fixed: ⏰ Customize Time UI Glitch – Customize Time options are now fully visible and selectable on both iPhone and iPad.
+Fixed: 🕌 RTL Text Alignment – Composing emails in RTL languages now starts from the correct right-to-left alignment.
+Fixed: 🔗 iPad Link Navigation – Opening a link in the browser and returning to Canary no longer causes the selected email to be deselected.
+
+We’re always working to make Canary better—thank you for your continued support! 🚀💛
