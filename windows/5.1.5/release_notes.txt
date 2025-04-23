@@ -1,0 +1,15 @@
+This is one of our most important updates yet! We've tackled a wide range of issues to significantly improve your Canary Mail experience on Windows.
+
+New: 🎨 Font Styling - Actual font style and color now visible in received emails.
+
+Fixed: 🧠 Special characters now display correctly in names, emails, and signatures across the app.
+Fixed: 📩 Zoho – Resolved issues with sent emails missing and incoming emails showing in Sent folder.
+Fixed: 📁 Folder handling improved – no more blank mappings, better folder creation and correct parent folder listings.
+Fixed: 🧾 Email formatting – Indented text, paragraphs, and bold styles now render correctly in received and forwarded emails.
+Fixed: 🔐 PGP – Decryption, key creation, and compatibility with Mac Mail now work properly.
+Fixed: 📉 Performance – Lower RAM usage and fewer folder refresh calls enhance stability.
+Fixed: 🖱️ UI fixes – Consistent inbox width and improved font display in incoming emails.
+Fixed: 🕒 Send Later now works with O365 accounts.
+Fixed: 👁️ Read Receipts and avatars now function and display as intended.
+
+Thank you for your feedback—it directly helped shape this release. Enjoy the smoother, faster, and more reliable Canary! 💙🌟
