@@ -1,0 +1,8 @@
+We’re bringing you key improvements and fixes to enhance your email experience on Android!
+
+Fixed: 🚀 Performance – Copilot now responds reliably across orientations and no longer lags during key tasks.
+Fixed: ✉️ Forwarding text visibility – Email text is now readable when forwarding, regardless of theme (no more black-on-black or white-on-white!).
+Fixed: 👁️ Dark mode readability – 'Show Original' screen now displays email text correctly in dark theme.
+Fixed: 🔄 Delete/Archive behavior – Emails deleted or archived no longer reappear in the Inbox.
+
+Thanks for your continued feedback and support—every update is shaped by you. 💙✨
