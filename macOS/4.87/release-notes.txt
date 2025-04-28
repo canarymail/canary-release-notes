@@ -1,0 +1,6 @@
+We’ve squashed a few more bugs and polished up the experience in this update:
+
+Fixed: ⌨️ Page Up/Page Down navigation – You can now smoothly scroll through emails using Pg Up/Pg Down keys in the message pane.
+Fixed: 🌍 Translation polish – Addressed missing translations in the Copilot tab for a more consistent multilingual experience.
+
+Your feedback keeps us moving—thank you for helping us build a better Canary! 💙✨
