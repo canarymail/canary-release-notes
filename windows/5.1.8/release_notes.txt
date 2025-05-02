@@ -1,8 +1,8 @@
 We’ve been working behind the scenes to squash bugs and introduce helpful new features to make your Canary Mail experience on Windows even better.
 
-Fixed 📎 Duplicate Attachments in Drafts – Resolved an issue where attachments were duplicated when saving edited drafts.
-Fixed 👀 Preview Leak – Fixed a bug where the content of .txt attachments appeared in the email preview.
-Fixed 🌐 Persian Language Rendering – Persian characters are now displayed correctly in emails.
-Fixed 🔄 Move Behavior – Emails once moved no longer reappear in the Inbox.
+Fixed: 📎 Duplicate Attachments in Drafts – Resolved an issue where attachments were duplicated when saving edited drafts.
+Fixed: 👀 Preview Leak – Fixed a bug where the content of .txt attachments appeared in the email preview.
+Fixed: 🌐 Persian Language Rendering – Persian characters are now displayed correctly in emails.
+Fixed: 🔄 Move Behavior – Emails once moved no longer reappear in the Inbox.
 
 Thanks for using Canary Mail! We’re committed to delivering an even more powerful and reliable email experience! 🚀
