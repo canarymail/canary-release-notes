@@ -1,0 +1,10 @@
+We’ve been hard at work improving your Canary Mail experience on Android — fixing bugs and polishing the interface to keep things smooth and reliable.
+
+New: ✅ Multi-Select in Search – You can now select multiple emails directly from search results.
+
+Fixed: 👀 Preview Leak – Fixed a bug where .txt attachments in drafts leaked their content into the email preview.
+Fixed: 📄 Blank 'Show Original' – Some emails now correctly display when tapping on ‘Show Original’.
+Fixed: 🔍 Swipe Actions in Search – You can now use swipe actions like delete or archive within search results.
+Fixed: 📁 Folder Sorting – Sub-folders now appear in ascending alphabetical order when created.
+
+We’re always refining the Canary experience—thanks for being part of the journey! 🚀
