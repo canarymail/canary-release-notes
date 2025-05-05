@@ -1,0 +1,8 @@
+Canary Mail is here with essential fixes and improvements to make your email experience smoother and more reliable.
+
+Fixed: ⏳ Delayed sending – Emails now send reliably even when the app is running in the background.
+Fixed: 👥 Scheduled send via alias – Emails scheduled from an alias (non-Gmail) now send from the correct alias instead of the original account.
+Fixed: 🔔 Notification issues – Opening emails from notifications now works as expected, without glitches.
+Fixed: 🌐 Tab translation – 'Emails' and 'Files' tabs now reflect the selected app language.
+
+We’re always working to make Canary better for you—thank you for being part of the journey! 💙✨
