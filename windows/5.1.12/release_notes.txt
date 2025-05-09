@@ -1,0 +1,13 @@
+We’ve made several key improvements to elevate your Canary Mail experience—smoothing out the rough edges and refining everyday interactions. Here's what's new:
+
+Fixed: 🗑️ Delete in Search – You can now delete single or multiple emails directly from search results.
+Fixed: 🔍 Bulk Cleaner Scope – Bulk cleaner now correctly applies to searched emails, not just the Inbox.
+Fixed: 📸 Snipping Tool Paste – Images from the Snipping Tool no longer paste twice when used in Compose.
+Fixed: 🖼️ Inline Image Duplication – Attaching an image inline now sends only one copy.
+Fixed: ⬆️ Folder Highlighting – Arrow key navigation now highlights folders correctly for the first account.
+Fixed: 📋 Excel Paste – Content copied from Excel no longer appears twice.
+Fixed: 🔁 Thread Replies – Replies no longer keep appending extra “Re:” in conversation threads.
+Fixed: 📂 Folder Menu Width – The folder list menu is now wider to show full folder names.
+Fixed: 📐 Move Selection UI – Improved visual layout of the folder selection box with proper line alignment.
+
+We’re committed to making Canary Mail better with every release—thanks for helping us improve! 🚀
