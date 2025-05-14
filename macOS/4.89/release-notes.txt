@@ -1,0 +1,6 @@
+We’ve been fine-tuning the Canary Mail experience to make everyday workflows smoother.
+
+Fixed: 🔗 Todoist Link Behavior – Emails added to Todoist as links now open correctly in Canary, even after being moved to a different folder.
+Fixed: 🎨 Signature Color Formatting – Resolved an issue where email signature colors were not rendered as expected.
+
+We’re committed to making your email experience as seamless and powerful as possible. 🚀
