@@ -1,0 +1,12 @@
+Canary Mail just got better on Windows — with key fixes and improvements to help you stay productive.
+
+Fixed: 🪟 Window Resizing – Minimize/maximize buttons and resizing now behave as expected.
+Fixed: ⌨️ Arrow Key Navigation – Scrolling with arrow keys now works properly in the reading pane.
+Fixed: 🔠 Font Size – No more cut-offs in Summarize, Attachment, or To/From fields when increasing system font size.
+Fixed: ✉️ Email Rendering – Emails now display correctly even with larger text settings.
+Fixed: 📎 Link Opening – Links in the compose screen now open in your browser as expected.
+Fixed: 🔐 PGP – We've made significant improvements to PGP support on Windows, including better handling of encrypted emails, enhanced key export, and a fix for attachments not opening in PGP/Secure Send encrypted emails.
+
+New: ⏱️ Time Preferences – You can now customize time formats (for 'Secure Send' and 'Send Later' as well) directly from Settings/Preferences.
+
+We hope these updates make a difference in your day. More improvements are on the way! ✨
