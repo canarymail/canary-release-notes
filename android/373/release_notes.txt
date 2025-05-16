@@ -1,0 +1,14 @@
+We’ve been fine-tuning the Canary Mail experience to make everyday workflows smoother.
+
+Fixed: 🪟 Extra Canary Logo Window – No longer appears when using DeX Mode on Galaxy Tab (Android).
+Fixed: 🔄️ Notification Sync – Archive/Delete/Pin actions from notifications now sync properly across Android devices.
+Fixed: 📝 Draft Editing – You can now edit email drafts seamlessly after minimizing them.
+Fixed: 🧵 Thread Replies – Removed unintended “re” repetitions when replying in a thread.
+Fixed: 🔐 Key Export – Exporting keys from Canary now works without issues.
+Fixed: ✅ PGP Signature – Emails sent from iOS/macOS now show valid signatures on Android if the sender’s public key is available.
+Fixed: 🧩 GPG Mail Compatibility – Mac users with GPG Mail can now decrypt PGP-encrypted emails from Canary Android.
+Fixed: 🖇️ TXT/EML Attachments – EML content inside .txt attachments is now handled correctly and no longer misclassified.
+
+New: ⏱️ Time Preferences – You can now customize time formats (for 'Snooze', 'Secure Send' and 'Send Later') directly from Settings/Preferences.
+
+We’re committed to making your email experience as seamless and powerful as possible. 🚀
