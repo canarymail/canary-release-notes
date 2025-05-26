@@ -1,0 +1,10 @@
+We’ve been listening — this iOS update tackles critical bugs to make your mobile email smoother than ever.
+
+Fixed: 🚀 Slow Startup Time – Improved app launch performance.
+Fixed: 🔄️ Orientation Bug – Inbox no longer resets when switching between portrait and landscape.
+Fixed: 🗓️ Calendar Translation – Cleaned up incorrect calendar translations for non-English languages.
+Fixed: 🧾 Read Receipt Icon – Now visible for non-Canary readers inside threads.
+Fixed: ✍️ Draft Duplication – Resolved issue where browser-edited drafts duplicated on reopen.
+Fixed: 🧩 Top Bar on iPad – Top icons now display correctly on iPadOS 18+.
+
+Thanks for flying with Canary. More fixes and features are just around the corner!
