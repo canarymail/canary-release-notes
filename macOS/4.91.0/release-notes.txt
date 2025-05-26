@@ -1,0 +1,8 @@
+Canary Mail on macOS just got a polish — resolving issues to improve your everyday workflow.
+
+Fixed: ✅ Read Receipt Icon – Now visible for non-Canary readers inside threads.
+Fixed: ✉️ IONOS Account Behavior – Emails from IONOS accounts can now be moved to other accounts.
+Fixed: 🗂️ Inbox Categories – These now appear even when the system language is set to a non-English language.
+Fixed: ⚙️ Language Support – Italian is now supported as App Language (from System Settings) for Canary.
+
+We’re always working to improve your experience — more updates coming soon!
