@@ -1,0 +1,8 @@
+We’ve rolled out another round of improvements and bug fixes to make your experience with Canary Mail on Windows smoother and more reliable. Here's what's new:
+
+Fixed: 🤏 Unpin/Pin & Thread Actions – Unpin/Pin and swipe/thread actions (including right-click) now function as expected.
+Fixed: 📎 Attachment Handling – Improved attachment handling and stability on Windows.
+Fixed: ⏰ Snooze in Search – Snoozed emails now reflect properly in search results.
+Fixed: 👥 Reply All Behavior – ‘Reply All’ now correctly places recipients in To/CC fields without leaving them blank.
+
+We’re committed to continuously improving Canary Mail for Windows — and your feedback helps us get there. Stay tuned for more! ✨
