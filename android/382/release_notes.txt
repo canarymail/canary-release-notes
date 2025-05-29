@@ -1,0 +1,6 @@
+We’ve made a few key updates to ensure a smoother, more seamless experience with Canary Mail.
+
+Fixed: 🗑️ Email Deletion – Deleted emails will not re-appear in inbox now.
+Fixed: 🗂️ IMAP Folder Creation – Fixed an issue where new folders were not created for some IMAP accounts.
+
+Thank you for choosing Canary Mail — more updates are on the way! ✨
