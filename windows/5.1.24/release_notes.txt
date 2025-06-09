@@ -1,0 +1,8 @@
+Canary Mail just got better on Windows — with fixes to help you stay productive and bug-free.
+
+Fixed: 🗓️ Agenda View Crash – App no longer crashes when opening the Calendar’s Agenda view.
+Fixed: 🗂️ IMAP Folder Creation – You can now create new folders without any hiccups.
+Fixed: 📏 Email Cutoff – Email content no longer gets clipped when resizing the view pane.
+Fixed: 📥 Invisible Emails – Made improvements for users unable to see emails in their Inbox.
+
+More improvements are already in the works — stay tuned and thank you for using Canary Mail!
