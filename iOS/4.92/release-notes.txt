@@ -1,0 +1,1 @@
+This update brings overall improvements to enhance the performance, stability, and usability of Canary on iOS. New folders created in the left pane are now sorted alphabetically. We’re committed to making your email experience smoother with every release.
