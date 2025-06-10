@@ -1,0 +1,9 @@
+We’ve been hard at work fixing bugs to enhance your Canary experience on macOS. Here’s what’s new:
+
+Fixed: 📌 Starred Folder Visibility – Starred emails from subfolders in Outlook/Office365/iCloud now appear correctly.
+Fixed: 🖼️ Inbox Zero Image – Background image now shows up properly when inbox is cleared.
+Fixed: 🖇️ Inline Image Paste – Drag-and-drop no longer causes inline images to be pasted twice.
+Fixed: 👤 Contact Pop-Up – ‘Show Contact’ now opens without showing a blank spinner.
+Fixed: 👁️ AI Assistant Flash – Selecting “See Emails” no longer causes flickering or message disappearance.
+
+Thanks for using Canary on Mac — more enhancements are coming your way! 🚀
