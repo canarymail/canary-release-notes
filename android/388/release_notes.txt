@@ -1,0 +1,9 @@
+We’ve squashed bugs and improved stability so your inbox feels lighter and more reliable.
+
+New: 📝 Templates now support attachments, CC, and BCC.
+
+Fixed: 🗑️ Deleted emails no longer reappear in the Inbox after being removed.
+Fixed: 🈁 Japanese characters now display correctly in emails.
+Fixed: 📧 Sent QQ emails no longer get stuck in the Outbox or require app restarts to resend or delete.
+
+We’re committed to delivering a faster, more stable email experience with every release. 💪
