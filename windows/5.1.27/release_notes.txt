@@ -1,0 +1,12 @@
+We’ve squashed bugs and enhanced the app to deliver a smoother, more reliable email experience.
+
+New: 📝 Templates now support attachments, CC, and BCC fields.
+
+Fixed: 🔎 Zooming in on email content no longer causes layout cutoffs.
+Fixed: 🎨 Reinstalled apps now follow system theme settings instead of defaulting to Dark Mode.
+Fixed: 📤 Sent QQ emails no longer get stuck in the Outbox or require app relaunches.
+Fixed: 🏷️ Folder mapping issues affecting 'Inbox' and 'Sent' for some users are resolved.
+Fixed: ✂️ Text can now be copied from received emails without issue.
+Fixed: 🚫 Account status no longer stays stuck on 'Authenticating' when mail functions are working.
+
+We’re committed to continuous improvements that make your everyday email smarter and more dependable. 💪
