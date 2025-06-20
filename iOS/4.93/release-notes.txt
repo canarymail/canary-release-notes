@@ -1,0 +1,8 @@
+We’ve been fine-tuning the Canary Mail experience to make everyday workflows smoother.
+
+New: ✔️ You can now mark emails as read automatically when the 'read filter' is enabled.
+
+Fixed: 🖇️ Attachments Display – Files with the same name and format now appear distinctly, even when multiple attachments are received.
+Fixed: 🧩 Addressed missing translations in some parts of the app.
+
+Your feedback keeps us moving — stay tuned for more updates. 🔧
