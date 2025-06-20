@@ -1,0 +1,9 @@
+We’re constantly refining the experience — here’s what’s new in this update.
+
+New: ✅ You can now mark emails as read automatically when the 'read filter' is enabled.
+
+Fixed: 📩 New emails are now fetched properly when scrolling to the bottom of the email list.
+Fixed: 💥 Addressed a crash on macOS that was affecting some users.
+Fixed: 🧩 Addressed missing translations in some parts of the app.
+
+Every fix takes us closer to a better email experience — thanks for being with us. 🙌
