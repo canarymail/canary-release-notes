@@ -1,0 +1,7 @@
+We’ve fixed key issues to make your email experience smoother, cleaner, and more reliable.
+
+Fixed: ⭐ Starred emails from Outlook/Office365/iCloud subfolders now correctly appear in the ‘Starred’ view for individual and all accounts.
+Fixed: 🧹 The app no longer triggers notifications for past emails on startup, reducing clutter.
+Fixed: 📎 Emails with multiple attachments that share the same name and file format now display content correctly.
+
+We’re committed to making Canary faster, smarter, and more dependable—every update counts. 💪
