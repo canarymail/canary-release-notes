@@ -1,0 +1,8 @@
+This update brings helpful fixes and new features that make emailing on Android faster and more intuitive.
+
+New: 🔗 Signature Links – You can now insert hyperlinks into your email signature.
+New: 🌐 RTL Language Support – Canary now supports right-to-left (RTL) languages when typing emails.
+
+Fixed: ⭐ Starred Folders – Starred emails from Outlook/Office365/iCloud accounts now appear correctly.
+
+Plus, we’ve resolved a number of behind-the-scenes bugs and crashes to keep things seamless. ✅
