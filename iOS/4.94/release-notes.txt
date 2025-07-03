@@ -1,0 +1,8 @@
+A few more bugs squashed, a few more improvements made - all to help you stay focused and in control.
+
+New: 🔔 Calendar Notifications – Canary now syncs calendar event notifications more reliably using an improved server setup.
+
+Fixed: 📝 Sent Emails Marked as Drafts – Emails that were successfully sent are no longer incorrectly listed as drafts.
+Fixed: ✉️ Multiple Draft Copies – Resolved an issue where editing via Gmail Web saved multiple draft copies.
+
+Thanks for using Canary Mail. We’ll be back soon with even more improvements. 🚀
