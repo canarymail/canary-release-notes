@@ -1,0 +1,7 @@
+We’ve made a few important improvements to keep your Canary Mail experience smooth and reliable.
+
+Fixed: 📝 Sent Emails Marked as Drafts – Emails that were successfully sent are no longer incorrectly listed as drafts.
+Fixed: 📩 Multiple Draft Copies – Resolved an issue where editing via Gmail Web saved multiple draft copies.
+Fixed: 🌐 Missing Translations – UI sections with missing translations have now been updated.
+
+More updates coming soon - thanks for flying with Canary! 💛
