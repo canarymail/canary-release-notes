@@ -1,0 +1,7 @@
+We’ve made a few important fixes to ensure a smoother and more reliable experience on iOS.
+
+Fixed: 🖼️ Limited Photo Access – You can now select more photos without needing to restart the app.
+Fixed: 🌐 Blank Email View – Returning from an external browser no longer causes the email view to appear blank on iPad.
+Fixed: 🗓️ O365 Calendar View – Opening O365 calendar invites now shows the correct event view instead of the custom view.
+
+We’re constantly working to improve stability and usability across all your Apple devices. 🚀
