@@ -1,9 +1,10 @@
 We’ve been hard at work making Canary Mail on macOS faster, smarter, and more reliable.
 
+New: 🌐 RTL Language Support – Canary now supports right-to-left (RTL) languages when typing emails.
+
 Fixed: 🗑️ Deleted Emails – Starred emails that were deleted no longer reappear in Outlook and O365.
 Fixed: 📧 Address Pasting – When pasting emails separated by semicolons, all addresses are now added properly.
 Fixed: 📅 Calendar Dates – Past dates are no longer incorrectly highlighted in event creation views.
 Fixed: 🗓️ O365 Calendar View – Opening O365 calendar invites now shows the correct event view instead of the custom view.
-New: 🌐 RTL Language Support – Canary now supports right-to-left (RTL) languages when typing emails.
 
 We appreciate your support as we continue improving Canary for you. 🚀
