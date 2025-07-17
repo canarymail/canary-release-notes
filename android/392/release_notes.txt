@@ -1,0 +1,8 @@
+A few more bugs squashed, a few more improvements made — all to keep your inbox smooth and stress-free.
+
+New: ✅ Mark as Read under Unread Filter – You can now mark emails as read even when viewing the Unread filter.
+
+Fixed: 📌 Missing Pinned Emails – Older emails pinned via Search results now show up as expected.
+Fixed: 🧵 Pinned + Threading Issues – Switching the Organize by Thread setting no longer affects the visibility of pinned emails.
+
+Thanks for flying with Canary Mail. More updates coming soon! 🚀
