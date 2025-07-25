@@ -1,0 +1,8 @@
+We’ve continued refining the Canary Mail experience to improve stability, usability, and performance on Windows.
+
+New: 📨 Read Receipt Indicator – Now shows within the email thread as well when reading messages.
+New: ✅ Mark as Read under Unread Filter – You can now mark emails as read even when viewing the Unread filter.
+
+Fixed: 🔧 ProtonMail Bridge – You can now archive or delete emails without issues.
+
+Thanks for being with us on the journey. 🚀
