@@ -1,0 +1,10 @@
+We’ve squashed bugs and enhanced the app to deliver a smoother, more reliable email experience.
+
+New: 🔍 Sort by Sender – To sort by sender, open an email from that sender, click the down arrow beside their name, then tap Search. This will return all emails from that sender.
+New: 📆 Calendar Week Start – Canary now respects your system preference for the first day of the week.
+
+Fixed: 🧠 Copilot Reply Subject – Subject lines now stay intact when adjusting Copilot reply length or tone.
+Fixed: 🖊️ Compose Formatting – Improved stability and formatting consistency in the compose window.
+Fixed: 🔄️ Strato Sync – Resolved sync issues affecting Strato accounts on macOS and iOS.
+
+We’re committed to continuous improvements that make your everyday email smarter and more dependable.
