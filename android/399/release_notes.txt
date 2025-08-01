@@ -1,0 +1,9 @@
+A few more bugs squashed, a few more improvements made — all to help you stay focused and in control.
+
+New: 📩 Read Receipt Indicator – Now shows within the email thread as well when reading messages.
+
+Fixed: 🖇️ Attachments Missing After Re-index – Resolved an issue where attachments would disappear from templates after re-indexing.
+Fixed: ⏰ Snoozed Notifications Unresponsive – Tapping on snoozed email notifications now correctly opens the email.
+Fixed: 🗃️ Duplicate Attachment Names – The app now correctly displays multiple attachments, even if they share the same name.
+
+Thanks for using Canary Mail. We’ll be back soon with even more improvements. 🚀
