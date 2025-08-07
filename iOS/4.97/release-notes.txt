@@ -1,0 +1,9 @@
+Canary just got sharper. Here’s everything we’ve improved in this release.
+
+Fixed: 🔗 Todoist Integration – Clicking “Connect” no longer opens a broken browser window. The authorization process now works as expected.
+Fixed: 🪄 Font Formatting – Improved consistency with default font behavior across iOS.
+Fixed: 🔎 iPad Email Search – Improved reliability of search and selection on iPad.
+Fixed: 🔑 Password Input – Typing passwords no longer triggers accidental paste behavior.
+Fixed: 🖋️ Proofreading Edits –Subject lines now remain unchanged when proofreading an email.
+
+As always, we’re listening. Stay tuned for more updates ahead.
