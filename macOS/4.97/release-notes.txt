@@ -1,0 +1,9 @@
+Canary just got sharper. Here’s everything we’ve improved in this release.
+
+Fixed: 🔗 Todoist Integration – Clicking “Connect” no longer opens a broken browser window. The authorization process now works as expected.
+Fixed: 📧 Indented Text – Indented text now renders correctly in emails. It’s no longer missing compared to Apple Mail.
+Fixed: 🖊️ Signature Formatting – Signature alignment is now consistent when using Markup.
+Fixed: 👥 Email Aliases – Canary now correctly preserves and displays multiple email aliases after restarting the app.
+Fixed: 🖋️ Proofreading Edits –Subject lines now remain unchanged when proofreading an email.
+
+As always, we’re listening. Stay tuned for more updates ahead.
