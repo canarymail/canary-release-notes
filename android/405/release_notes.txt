@@ -1,0 +1,7 @@
+A few fixes and improvements to keep your email experience smooth and efficient:
+
+Fixed: 🔄️ App Progress – Progress now completes correctly after using the template feature.
+Fixed: ↔️ Swipe to Archive/Delete – Swipe actions no longer get stuck until a page refresh.
+Fixed: 🤖 Copilot Replies – Adjusting reply length, tone, or proofreading no longer changes the subject line in replies.
+
+Thanks for using Canary Mail. We’ll be back soon with even more improvements. 🚀
