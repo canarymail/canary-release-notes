@@ -1,0 +1,8 @@
+A few more bugs squashed, a few more improvements made — all to help you stay focused and in control.
+
+Fixed: 📅 Calendar Sync – Calendar not syncing entirely for certain Gmail accounts on Windows.
+Fixed: 📎 Attachments – Resolved issue where attachments would not open for Exchange accounts.
+Fixed: 📌 Email Pinning – Old emails not getting pinned in Inbox even when pinned on another device.
+Fixed: 🤖 Copilot Replies – Adjusting Copilot reply (Length or Tone) no longer changes the subject line in replies.
+
+We appreciate your support as we continue improving Canary for you.
