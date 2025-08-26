@@ -1,0 +1,8 @@
+A few more bugs squashed, a few more improvements made — all to help you stay focused and in control.
+
+Fixed: 🌍 Localization – In French interface, “Share” now correctly displays as “Partager.”
+Fixed: 📤 Outbox – QQ emails no longer remain stuck in the Outbox and can be resent or deleted.
+Fixed: 📥 Inbox Zero – On macOS Tahoe, the “Done” button in Inbox Zero is now fully responsive.
+Fixed: 💥 Crash – Crash issues reported by users have been resolved.
+
+We appreciate your support as we continue improving Canary for you.
