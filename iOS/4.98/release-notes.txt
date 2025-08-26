@@ -1,0 +1,10 @@
+A few more bugs squashed, a few more improvements made — all to help you stay focused and in control.
+
+New: 🔎 Sort by Sender – To sort by sender, open an email from that sender, tap the sender name, then tap 'Search for [Name]'.
+New: 🔠 Accessibility – The app now follows your device’s system font size for incoming email body text as well.
+
+Fixed: 📤 Outbox – QQ emails no longer remain stuck in the Outbox; they can now be resent or deleted.
+Fixed: 📅 Calendar – Outlook calendar events added to Canary’s calendar now keep the full subject line without truncation.
+Fixed: ✅ Integrations – Todoist priority settings now display correctly.
+
+We appreciate your support as we continue improving Canary for you.
