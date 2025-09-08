@@ -1,0 +1,10 @@
+More fixes, more polish — making your email experience smoother than ever.
+
+New: ⚠️ Alerts – New warning prompt for failed email sends.
+
+Fixed: 🎹 iPad Pro – Delete key now works correctly with Magic Keyboard.
+Fixed: ✍️ Signatures – Signature font sizes are now consistent between macOS and iOS.
+Fixed: 📩 Replies – Quick Reply + Reply All now function as expected.
+Fixed: 💻 HTML Emails – Resolved overlapping and oversized text issues.
+
+We appreciate your support as we continue improving Canary for you.
