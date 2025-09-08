@@ -1,0 +1,8 @@
+A few more bugs squashed, a few more improvements made — all to help you stay focused and in control.
+
+Fixed: 📤 Archive – Sent emails now appear in the Archive thread for O365 and iCloud accounts.
+Fixed: 🚩 Localization – Rule settings in German no longer overlap in certain sections.
+Fixed: ⬅️ Swipe Actions – 'After Archive/Delete' now work as expected after using 'Swipe' to archive/delete emails.
+Fixed: 📅 Teams Calendar – Event details now render correctly in O365 accounts.
+
+We appreciate your support as we continue improving Canary for you.
