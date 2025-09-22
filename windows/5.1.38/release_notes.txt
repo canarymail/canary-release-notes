@@ -1,0 +1,7 @@
+This update clears out a few glitches and smooths the edges, so your workflow on Windows stays effortless.
+
+Fixed: 📝 Replying – When replying to an email, the cursor now defaults to the message body instead of the To field.
+Fixed: 📆 Calendar – The app no longer crashes or freezes when clicking the Calendar full screen button.
+Fixed: 🎨 Theme – In Dark Mode, email text in the viewer now displays correctly when paired with a Light theme, avoiding black-on-black text.
+
+More improvements are on the way — we’re committed to keeping Canary Mail sharp on Windows.
