@@ -1,0 +1,1 @@
+This update focuses on iOS 26 compatibility and polish. We’ve refreshed the UI to align with iOS 26, making your email experience smoother and more consistent. ✨
