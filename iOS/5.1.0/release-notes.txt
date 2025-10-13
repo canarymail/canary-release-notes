@@ -1,6 +1,0 @@
-A fresh round of fixes is here! We’ve smoothed out a few wrinkles to keep your iOS experience seamless and reliable.
-
-Fixed: ✉️ Compose Button Visibility – The Compose button now correctly appears even when your Inbox is empty (Inbox Zero).
-Fixed: 💥 Crashes – Addressed multiple crash scenarios for improved stability and performance.
-
-We love hearing from you – keep the feedback coming as we continue making Canary better on every update.
