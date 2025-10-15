@@ -1,0 +1,7 @@
+We’ve made a few important fixes and updates to make Canary for Android more reliable and accurate.
+
+Fixed: 📅 Email Timestamps – Improved date accuracy for some non-English accounts to better reflect original send and receive times.
+Fixed: 📎 Attachments – Attachments for Exchange accounts can now be downloaded without issues.
+Fixed: 🛠️ Crashes – Several performance and reliability issues have been resolved to make Canary run more smoothly.
+
+We’re constantly improving the Canary experience to keep your workflow seamless and secure. 💪
