@@ -1,7 +1,0 @@
-A fresh batch of improvements is here! We’ve cleaned up bugs and fine-tuned Canary for a smoother Windows experience.
-
-Fixed: 🗂️ O365 Non-English Accounts – Folders now auto-assign correctly on Windows.
-Fixed: 📌 Pinned Emails – Pinned messages now reflect accurately in the UI.
-Fixed: ✏️ Signatures – Signature images no longer get cut off in certain HTML formats.
-
-We love hearing from you - keep the feedback coming as we continue building a faster, smarter Canary.
