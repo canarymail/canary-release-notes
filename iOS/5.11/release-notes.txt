@@ -1,0 +1,8 @@
+A few more bugs squashed, a few more improvements made - all to help you stay focused and in control.
+
+Fixed: 📨 Text for unread/read status now updates correctly in swipe actions.
+Fixed: 🖥️ Compose Suggestions Off – Autofill no longer pulls from email history when disabled.
+Fixed: 📷 Draft emails with photo attachments no longer show “?” and display correctly.
+Fixed: 📧 Duplicate Addresses – Prevented duplicate email addresses from appearing in the “To” field while composing.
+
+Thanks for using Canary Mail. We’ll be back soon with even more improvements. 💛
