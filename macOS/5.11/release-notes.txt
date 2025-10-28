@@ -1,0 +1,7 @@
+A few more bugs squashed, a few more improvements made - all to help you stay focused and in control.
+
+Fixed: 🎨 Contrast – Improved visual consistency across different display modes.
+Fixed: 📧 Duplicate Addresses – Prevented duplicate email addresses from appearing in the “To” field while composing.
+Fixed: 📨 Text for unread/read status now updates correctly in swipe actions.
+
+Thanks for using Canary Mail. We’ll be back soon with even more improvements. 💛
