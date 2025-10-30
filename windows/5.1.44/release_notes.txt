@@ -1,0 +1,7 @@
+We’re excited to bring you a new update with bug fixes and performance enhancements!
+
+Fixed: 🔗 Calendar Events – Links in calendar invitations are now selectable as expected.
+Fixed: 🖼️ Signatures – Multiple images in email signatures no longer overwrite each other.
+Fixed: 💻 System Tray – Canary now reopens properly using keyboard or desktop shortcuts, even when running in the system tray.
+
+We hope these improvements make your Canary Mail experience better. More updates are on the way - stay tuned!
