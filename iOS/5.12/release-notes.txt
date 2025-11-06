@@ -1,0 +1,6 @@
+Our latest update focuses on stability, performance, and smoother everyday workflows.
+
+Fixed: 📅 Meeting & Event Buttons – Fixed an issue where response and delete buttons for calendar events were hidden, making them accessible again.
+Fixed: 💥 Crash Issues – Implemented several stability improvements to reduce crashes and improve performance.
+
+Thanks for flying with Canary - we’re always working to make every update worth it.
