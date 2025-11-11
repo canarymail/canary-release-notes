@@ -1,0 +1,6 @@
+A few behind-the-scenes fixes to keep your inbox running like clockwork 🕒
+
+Fixed: 🔒 Encrypted Emails – Inline images now render correctly in encrypted emails sent via PGP or SecureSend.
+Fixed: 👥 Contact Avatars – Resolved an issue preventing certain Google contact avatars from being fetched.
+
+Every little fix adds up. Thanks for helping make Canary better with every release. 💛
