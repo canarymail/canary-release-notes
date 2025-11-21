@@ -1,0 +1,8 @@
+This update brings a handful of fixes to keep things running smoothly on iOS.
+
+Fixed: 🇵🇹 Translations – Improved Portuguese translations across the app.
+Fixed: 📅 Calendar – Tapping the time in an email now launches the Calendar with a new event draft.
+Fixed: 📝 Draft Recovery – Drafts no longer disappear when the app is quit and reopened.
+Fixed: 💬 Quoted Replies – Replies from Sent/Inbox now correctly include previously sent messages in the quoted text.
+
+More refinements are on the way — thanks for sticking with us and sharing feedback that helps shape every update.
