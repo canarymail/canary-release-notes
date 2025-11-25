@@ -1,0 +1,7 @@
+This update focuses on smoother performance and reliability across key areas.
+
+Fixed: 🖼️ Missing Avatars – Fixed an issue where certain contact avatars were not loading.
+Fixed: 🔔 Snooze ‘Wake’ Option – Added a direct “Wake” option in snoozed folders for easier cancellation.
+Fixed: 🧩 Gmail Connection Crashes – Improved logging to help prevent crashes when connecting certain Gmail accounts.
+
+Thanks for using Canary - more improvements are on the way.
