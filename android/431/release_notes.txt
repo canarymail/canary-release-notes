@@ -1,0 +1,6 @@
+This update focuses on smoother performance and reliability across key areas.
+
+Fixed: 🖼️ Missing Avatars – Fixed an issue where certain contact avatars were not loading.
+Fixed: 🛠️ Stability Enhancements – Crash fixes and general performance improvements for a steadier experience.
+
+Thanks for using Canary - more improvements are on the way. 
