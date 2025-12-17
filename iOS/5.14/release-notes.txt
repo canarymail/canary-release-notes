@@ -1,0 +1,9 @@
+Canary just got sharper. Here’s everything we’ve improved in this release.
+
+Fixed: ✍️ Signatures in RTL Languages – Signature alignment now behaves correctly when composing emails in RTL languages.
+Fixed: 🔐 PGP Key Export – Exporting PGP keys no longer causes the app to freeze.
+Fixed: 🖼️ Share Sheet – Canary Mail now appears correctly when sharing more than three photos.
+Fixed: 🔗 Email Composer Links – Hyperlinks can now be added seamlessly while composing emails.
+Fixed: 🛠️ Stability & Performance – General fixes to improve overall app stability and reduce crashes.
+
+Small updates, big improvements. Thanks for flying with Canary 💛
