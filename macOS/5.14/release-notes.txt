@@ -1,0 +1,8 @@
+Canary just got sharper. Here’s everything we’ve improved in this release.
+
+Fixed: 🖼️ Signature Images – Images can now be pasted into signatures correctly and display at a consistent size in Sent and received emails.
+Fixed: 🚫 Blocked Emails – Blocked messages will no longer incorrectly appear in the Inbox.
+Fixed: 🕒 Meeting Times – Calendar invites now show the correct time.
+Fixed: 🛠️ Stability & Reliability – General fixes to improve overall performance and reduce edge-case issues.
+
+Small updates, big improvements. Thanks for flying with Canary 💛
