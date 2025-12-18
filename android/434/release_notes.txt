@@ -1,0 +1,8 @@
+This update brings a handful of fixes to keep things running smoothly on Android.
+
+Fixed: 🖼️ Image Rendering Issues - Images in certain emails no longer appear stretched or distorted.
+Fixed: 📝 Email Templates - Inline images in saved templates now stay intact.
+Fixed: 🤖 Copilot Re-draft Error - Copilot no longer errors out when using the re-draft option.
+Fixed: ✍️ Draft Recovery - Drafts are preserved even if the app is closed mid-compose.
+
+Thanks for sticking with us - we’re always working to make Canary better ✨
