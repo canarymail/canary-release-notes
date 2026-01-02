@@ -1,0 +1,10 @@
+We’ve cleared out a few rough edges to make the experience more consistent.
+
+Fixed: 🔔 Notification Badge – The unread badge no longer briefly shows an incorrect count.
+Fixed: 🕒 Time Format Consistency – Calendar times now respect your system’s 24-hour format settings.
+Fixed: 🌐 Localization Fixes – Corrected unintended auto-translations of account names.
+Fixed: 🔁 Send Again Behaviour – 'Send Again' now resends the email properly instead of creating duplicates.
+Fixed: 📆 Calendar Rendering – Fixed issues where calendar events or attachments didn’t appear in Canary.
+Fixed: 🛠️ Stability Improvements – Multiple crash fixes to improve overall app stability.
+
+As always, we’re listening and continuing to improve Canary with every release.
