@@ -1,0 +1,9 @@
+We’ve cleared out a few rough edges to make the experience more consistent.
+
+Fixed: 📝 Draft Saving – Drafts now save reliably for Yandex accounts.
+Fixed: ✉️ Sending Issues – Sent emails no longer linger in Drafts.
+Fixed: 🕰️ Snooze & Calendar UI – Display issues with snooze labels and events are resolved.
+Fixed: 🗑️ Trash Actions – Deleting emails via notification actions works correctly across accounts.
+Fixed: 🛠️ Stability Improvements – Multiple crash fixes to improve overall app stability.
+
+As always, we’re listening and continuing to improve Canary with every release.
