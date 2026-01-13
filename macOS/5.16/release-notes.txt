@@ -1,0 +1,5 @@
+This update focuses on stability improvements and a smoother overall experience.
+
+Fixed: 💥 Crash Issues – Resolved underlying issues that were causing occasional crashes.
+
+Thanks for flying with Canary - small updates, big difference.
