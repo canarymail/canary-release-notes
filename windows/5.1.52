@@ -1,8 +1,0 @@
-We’ve been working through reported issues to smooth out some rough edges.
-
-Fixed: 📬 Unread Filter Behavior – Read emails no longer disappear when using Filter by Unread; they now remain visible and correctly marked as read.
-Fixed: 💥 Crash Fixes – Resolved a few crashes reported across startup and normal workflows.
-Fixed: 🖨️ Email Printing Issue – Embedded images now stay intact instead of breaking when printing emails.
-Fixed: ✉️ GMX Send Failure – Improved handling of GMX send failures caused by header and policy restrictions.
-
-Thanks for using Canary Mail. We’ll be back soon with even more improvements.
