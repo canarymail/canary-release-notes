@@ -1,0 +1,6 @@
+We’ve made several behind-the-scenes fixes to make Canary for Android more stable and effortless to use every day.
+
+Fixed: 📩 Last Sent Email Opening as Draft – Fixed an issue where recently sent emails could reappear as drafts.
+Fixed: 😴 Snooze Visibility in Search – Snoozed emails now reflect properly in search results, matching what’s happening in the background.
+
+Thanks for being part of our journey - we’ll keep refining the experience with every update.
