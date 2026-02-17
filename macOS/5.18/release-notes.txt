@@ -1,0 +1,7 @@
+A few more bugs squashed, a few more improvements made - all to help you stay focused and in control.
+Fixed: 🤖 Copilot Reply Header - Replies generated via Copilot “Enter Instructions” now correctly fetch the sender’s name and email header in the compose window.
+Fixed: 📤 Sender Order in Threads - When multiple senders are part of a conversation, the most recent sender now appears first in the Inbox list.
+Fixed: 🎨 Theme Switching - Message Editor no longer caches the previous theme after switching.
+Fixed: 🔁 Send Again - The “Send Again” action is now functioning properly.
+Fixed: ✅ Todoist Integration - Fixed connection errors that caused the Todoist integration to appear unavailable.
+Stay tuned for more refinements ahead.
