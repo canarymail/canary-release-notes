@@ -1,6 +1,0 @@
-A few more bugs squashed, a few more improvements made - all to help you stay focused and in control.
-Fixed: 🖼️ Inline Image Handling - Attached inline images no longer disappear after proofreading a message.
-Fixed: ✉️ Compose Screen Issue - Creating a new email no longer opens duplicate compose windows.
-Fixed: 📭 Inbox Zero (O365) - Inbox Zero now remains visible consistently when your inbox is empty.
-Fixed: 📧 CC/BCC Fields - Email addresses entered in CC/BCC are no longer removed when tapping outside the field.
-Stay tuned for more refinements ahead.
