@@ -1,0 +1,6 @@
+A small maintenance update focused on fixing a key issue and improving overall stability.
+
+Fixed: 📝 Draft Handling - Sent emails no longer reopen as drafts.
+Fixed: 🛠️ Stability Improvements - Includes crash fixes and general reliability enhancements.
+
+As always, we’re listening and continuing to improve Canary with every release.
