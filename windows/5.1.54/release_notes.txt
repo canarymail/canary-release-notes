@@ -1,0 +1,7 @@
+A maintenance-focused update to address a few key issues and improve overall stability.
+
+Fixed: 📥 Gmail Account Setup - Resolved a crash that could occur while adding a Gmail account.
+Fixed: 📎 PDF Email Loading - Emails with PDF attachments now load correctly.
+Fixed: 🛠️ Stability Improvements - Includes crash fixes and general reliability enhancements.
+
+As always, we’re listening and continuing to improve Canary with every release.
