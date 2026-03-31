@@ -1,0 +1,7 @@
+A quick update with something new, along with fixes to make everyday use smoother.
+New: ✨ Compose Suggestions Control - You can now remove unwanted email suggestions while composing - just swipe left on a suggestion and tap the delete icon to stop seeing it again.
+Fixed: 📆 Calendar Events - Fixed an issue where the save option could become unresponsive when editing events.
+Fixed: 📤 Screenshot Sharing - You can now share screenshots directly without needing to save them first.
+Fixed: 🔗 Share Status - Resolved an issue where share status settings were not being saved.
+Fixed: 🎥 Video Attachments - Fixed a limitation where videos could only be attached from the Files app.
+We’re continuing to fine-tune the experience - thanks for sticking with us.
