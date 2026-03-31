@@ -1,0 +1,6 @@
+A quick update with something new, along with fixes to make everyday use smoother.
+New: ✨ Compose Suggestions Control - You can now remove unwanted email suggestions while composing - just click the ‘×’ next to a suggestion, and it won’t be shown again.
+Fixed: 📁 Folder Creation - Fixed an issue where creating folders could fail due to duplicate name errors.
+Fixed: 🧰 Compose Toolbar - Compose Toolbar text now displays correctly when “Icon + Text” is selected.
+Fixed: 🛠️ Stability Improvements - General fixes to improve overall app stability and reduce crashes.
+We’re continuing to fine-tune the experience - thanks for sticking with us.
