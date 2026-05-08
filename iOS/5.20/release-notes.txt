@@ -1,0 +1,4 @@
+A few fixes and improvements to keep your email experience smooth and efficient:
+Fixed: ✅ Todoist Integration - Resolved connection issues that could cause the Todoist integration to appear unavailable.
+Fixed: 🛠️ Stability Improvements - Includes crash fixes and general reliability enhancements.
+Stay tuned for more refinements ahead.
