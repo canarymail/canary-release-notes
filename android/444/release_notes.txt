@@ -1,0 +1,1 @@
+Fewer crashes, less interruption. This update includes important crash fixes to keep Canary fast, steady, and more reliable all around.
