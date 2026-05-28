@@ -1,0 +1,4 @@
+A few behind-the-scenes fixes to keep your inbox running like clockwork.
+Fixed: 🛠️ Addressed multiple issues that could cause unexpected app crashes during everyday use.
+Fixed: ✨ Improved overall app reliability and stability for a smoother Canary Mail experience.
+Thanks for using Canary - more improvements are on the way.
