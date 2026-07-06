@@ -1,0 +1,9 @@
+A maintenance-focused update focused on stability, reliability, and improvements across Windows.
+
+Fixed: 📥 Gmail Account Setup – Resolved a crash that could occur while adding a Gmail account.
+Fixed: 🖥️ Mail Viewer Stability – Prevented the mail viewer from unexpectedly closing in certain scenarios.
+Fixed: 📧 Email Rendering – Improved email content rendering for more consistent display.
+Fixed: 🔐 PGP Decryption – Resolved an issue where PGP decryption could fail on Windows.
+Fixed: 🛠️ General Stability Improvements – Includes additional crash fixes and overall reliability enhancements.
+
+As always, we’re listening and continuing to improve Canary with every release.
