@@ -1,0 +1,6 @@
+This update focuses on stability improvements and a smoother overall experience.
+
+Fixed: ⚙️ Custom SMTP Settings** – Advanced View will no longer overwrite your custom SMTP username.
+Fixed: 🛡️ Stability Improvements** – Includes crash fixes and general reliability enhancements to keep things running smoothly.
+
+Thanks for flying with Canary — small updates, big difference! 🚀
