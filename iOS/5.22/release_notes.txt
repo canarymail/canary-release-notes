@@ -1,5 +1,6 @@
-:sparkles: This update focuses on stability improvements and a smoother overall experience.
+This update focuses on stability improvements and a smoother overall experience.
 
- Fixed: :gear: Custom SMTP Settings – Advanced View will no longer overwrite your custom SMTP username..
- Fixed: :shield: Stability Improvements – Includes crash fixes and general reliability enhancements to keep things running smoothly..
-:airplane: Thanks for flying with Canary — small updates, big difference!
+Fixed: ⚙️ Custom SMTP Settings** – Advanced View will no longer overwrite your custom SMTP username.
+Fixed: 🛡️ Stability Improvements** – Includes crash fixes and general reliability enhancements to keep things running smoothly.
+
+Thanks for flying with Canary — small updates, big difference! 🚀
