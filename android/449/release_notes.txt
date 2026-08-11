@@ -1,0 +1,7 @@
+A few behind-the-scenes fixes to keep your inbox running smoothly.
+
+Fixed: 👆 Swipe Actions - Resolved an issue where swiping on an email could accidentally trigger email selection.
+Fixed: 🔐 PGP Key Handling - When a PGP key is unavailable, Canary now shows the option to add the key instead of displaying the email content in HTML format.
+Fixed: 🛠️ Maintenance & Stability - Includes general fixes and reliability improvements for a smoother Canary Mail experience.
+
+Thanks for using Canary - more improvements are on the way.
