@@ -1,0 +1,7 @@
+This update brings a smarter AI chat experience along with a couple of key fixes for a smoother ride. 🚀
+New: 🤖 AI Chat History - You can now view your past AI conversations anytime.
+New: 💬 New Chat - Start a fresh AI conversation with a single tap.
+New: 🗑️ Delete Chat - Easily delete AI chats you no longer need.
+Fixed: 📧 163.com Sync - Resolved an issue where 163.com accounts could get stuck in "Waiting" status during synchronization.
+Fixed: 👆 Swipe Action "Label" - Fixed an issue where the "Label" swipe action was incorrectly triggering/showing the "Reply" action instead.
+Thanks for flying with Canary - small updates, big difference.
