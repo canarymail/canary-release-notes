@@ -1,0 +1,6 @@
+This update includes a key fix and expanded compatibility.
+
+Fixed: 📎 File Tab Attachments - Resolved an issue where the File tab could incorrectly associate attachments with unrelated contacts or email accounts.
+New: 🖥️ macOS 27 Compatibility - Canary is now fully compatible with OS 27.
+
+Thanks for flying with Canary - small updates, big difference.
