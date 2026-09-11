@@ -1,0 +1,7 @@
+This update focuses on iPad UI fixes and expanded compatibility.📱
+
+Fixed: 🖼️ iPad Top Bar Icons - Resolved an issue where iPadOS top bar icons were cropped and incorrectly positioned.
+Fixed: 🌙 iPad Toolbar Dark Mode - Fixed an issue where the iPad top toolbar rendered black in Dark Mode.
+New: 🖥️ OS 27 Compatibility - Canary is now fully compatible with OS 27.
+
+Thanks for flying with Canary - small updates, big difference.
