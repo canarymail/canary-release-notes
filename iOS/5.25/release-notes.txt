@@ -1,0 +1,7 @@
+This update brings a handy new feature along with a key fix.
+
+New: 🌐 Incoming Mail Translation - Canary can now translate incoming emails, so you can read messages in any language right in your inbox.
+Fixed: 🔒 Protect App Access - Resolved an issue where Protect App Access was not working after the latest iOS update.
+Fixed: 📧 Reply "To" Field - Fixed an issue where the "To" field would auto-fill with your own email instead of the sender's when replying to messages received via certain contact forms.
+
+Thanks for flying with Canary - small updates, big difference.
