@@ -1,0 +1,7 @@
+This update includes iPad fixes and a new translation control.
+
+Fixed: 🌗 Splash Screen - Resolved an issue where the app launched with a black splash screen despite Light Mode being set.
+Fixed: 📧 Draft "From" Address - Fixed an issue where changing the "From" address on a draft was ignored, and the email sent from the address active at draft creation instead.
+Fixed: 🔍 iPad Select All - Resolved an issue where Select All didn't work when searching by sender/email address.
+
+Thanks for flying with Canary - small updates, big difference.
