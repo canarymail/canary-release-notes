@@ -1,0 +1,7 @@
+This update includes key fixes and a new translation control. 
+
+Fixed: 🔢 Unread Count - Resolved an issue causing missing or invisible mail counts in the unread badge.
+Fixed: 📧 Draft "From" Address - Fixed an issue where changing the "From" address on a draft was ignored, and the email sent from the address active at draft creation instead.
+Fixed: 📬 Email Loading - Resolved an issue where Canary Mail failed to load and display specific received emails.
+
+Thanks for flying with Canary - small updates, big difference.
