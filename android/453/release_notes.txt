@@ -1,0 +1,7 @@
+A few maintenance fixes to keep Canary running smoothly.
+
+Fixed: 🛠️ Crashes  — Resolved multiple issues causing the app to crash.
+Improved: ✨ UI — Refined various UI elements for a smoother, more polished experience.
+Fixed: 🗑️ Email Deletion — Resolved an issue where deleting an email failed with an "Unstable Connection"  error when the app was backgrounded on cellular data.
+
+Thanks for using Canary - more improvements are on the way!
