@@ -1,0 +1,5 @@
+A few more bugs squashed, a few more improvements made, all to help you stay focused and in control.
+
+Fixed: 💥 Crash Fixes - Resolved multiple crashes across the app for a more stable and reliable experience.
+
+We appreciate your support as we continue improving Canary for you.
