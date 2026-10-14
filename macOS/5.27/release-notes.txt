@@ -1,0 +1,7 @@
+This update brings a couple of keyboard shortcut fixes. ⌨️
+
+Fixed: 🏷️ Label Dialog - Cmd+A in the label dialog now selects the text in the input field instead of selecting all emails.
+Fixed: 📂 Move Modal - Cmd+A in the Move modal now selects the search text instead of selecting all messages.
+Fixed: ↩ Reply to Sent Emails - Replying to a sent email now correctly fills the “To” field with the recipient instead of your own address.
+
+Thanks for flying with Canary - small updates, big difference.
