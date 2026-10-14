@@ -1,0 +1,8 @@
+This update brings a set of fixes to make everyday email smoother. 📱
+
+Fixed: 🔝 Inbox Scroll to Top - Tapping the Inbox icon at the bottom left now scrolls the inbox back to the top again.
+Fixed: 🚀 iPadOS Launch - Resolved an issue where the app got stuck at the splash screen when another window was playing video.
+Fixed: ↩ Reply to Sent Emails - Replying to a sent email now correctly fills the “To” field with the recipient instead of your own address.
+Fixed: 📶 Sending on Mobile Data - Improved reliability of sending emails over mobile data, including for T-Online.de accounts.
+
+Thanks for flying with Canary - small updates, big difference.
