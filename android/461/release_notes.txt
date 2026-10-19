@@ -1,0 +1,7 @@
+A few maintenance fixes to keep Canary running smoothly.
+
+Fixed:🔧 Launch Crash — Resolved an issue causing the app to crash on launch on some older phones.
+Fixed: 🔄 QR Code Setup — Fixed an issue where restoring settings from another device using a QR code could get stuck on "Setting Up Canary".
+Improved: ✨ Stability — Made general stability improvements for a smoother, more reliable experience.
+
+Thanks for using Canary — more improvements are on the way!
