@@ -1,8 +1,8 @@
 A few more bugs squashed, a few more improvements made — all to help you stay focused and in control.
 
-Fixed:🔔Toast Notification Archiving – Archiving from a toast notification no longer shows the “Cannot move email” error.
-Fixed:🕛Calendar Time Format – Calendar time format now mirrors your Windows system and Google Calendar settings.
-Fixed:⌛Device Setup – Resolved an issue where the app got stuck on the loading screen for all emails while setting up Windows and Android devices.
-Fixed:🗑️Email Deletion – Resolved an issue where deleted emails reappeared after Canary re-synced or when navigating to another section.
+Fixed: 🔔Toast Notification Archiving – Archiving from a toast notification no longer shows the “Cannot move email” error.
+Fixed: 🕛Calendar Time Format – Calendar time format now mirrors your Windows system and Google Calendar settings.
+Fixed: ⌛Device Setup – Resolved an issue where the app got stuck on the loading screen for all emails while setting up Windows and Android devices.
+Fixed: 🗑️Email Deletion – Resolved an issue where deleted emails reappeared after Canary re-synced or when navigating to another section.
 
 We appreciate your support as we continue improving Canary for you.
