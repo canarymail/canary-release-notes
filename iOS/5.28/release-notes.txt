@@ -1,0 +1,7 @@
+This update brings an important Microsoft 365 upgrade along with a few fixes. 
+
+Fixed: ☁️ Microsoft 365 Accounts - Microsoft 365 accounts now sign in and sync through Microsoft Graph, replacing the older Exchange connection, so your account keeps working reliably.
+Fixed: 🛡️ Spam Sender Address - Resolved an issue where the sender address was missing on spam emails.
+Fixed: 🌐 Email Translation - Fixed an issue where the email body was not being translated.
+
+Thanks for flying with Canary - small updates, big difference.
