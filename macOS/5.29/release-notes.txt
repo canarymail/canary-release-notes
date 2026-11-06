@@ -1,0 +1,6 @@
+This update brings important fixes for a more reliable experience.
+
+Fixed: ⏰ Send Later - Resolved an issue where scheduled emails were not sent via Send Later.
+Fixed: 💥 Crash Fixes - Resolved multiple crashes for a more stable and reliable experience.
+
+Thanks for flying with Canary - small updates, big difference.
