@@ -1,0 +1,7 @@
+This update brings more control over text size along with fixes for iPhone Duo.
+
+New: 🔠 Font Size Controls - Adjust text size in Canary with three sliders for Message, Message List, and Sidebars & Preferences. These are used instead of the iOS Text Size setting.
+Fixed: 🌙 iPhone Duo Dark Theme - Resolved an issue where the message view appeared grey in Dark Theme on iPhone Duo.
+Fixed: 🧩 iPhone Duo Icons - Fixed an issue where icons overlapped in the UI on iPhone Duo.
+
+Thanks for flying with Canary - small updates, big difference.
