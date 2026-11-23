@@ -1,0 +1,9 @@
+This update brings font size, PGP, and Send Later fixes, plus a launch crash fix.
+
+Fixed: 🔠 Font Size - Increasing the font size from Canary settings now applies to the email body and compose window.
+Fixed: ⏰ Send Later - Resolved an issue where emails disappeared from Drafts after unscheduling in Send Later.
+Fixed: 🔑 PGP Key Expiry - PGP keys with an expiration date are no longer incorrectly displayed as “Perpetual”.
+Fixed: 💥 Launch Crash - Resolved a crash on launch on iMac running macOS 10.15.8.
+Fixed: 🌍 German Reply Headers - Reply headers in the German version no longer contain English words.
+
+Thanks for flying with Canary - small updates, big difference.
