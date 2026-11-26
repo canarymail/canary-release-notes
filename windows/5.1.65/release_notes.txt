@@ -1,0 +1,5 @@
+A few more bugs squashed, a few more improvements made — all to help you stay focused and in control.
+
+New: ☁️ Microsoft 365 Accounts – Microsoft 365 accounts now sign in and sync through Microsoft Graph, replacing the older Exchange connection, so your account keeps working reliably.
+
+We appreciate your support as we continue improving Canary for you.
